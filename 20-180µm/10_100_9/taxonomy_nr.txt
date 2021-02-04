@@ -1,0 +1,44 @@
+    871 
+     28 Pancrustacea
+     11 Tigriopus californicus
+     10 Bilateria
+      9 Neocopepoda
+      8 Neoptera
+      7 Arthropoda
+      5 Holometabola
+      3 Multicrustacea
+      3 Neopterygii
+      2 Crustacea
+      2 Ecdysozoa
+      2 Eukaryota
+      2 Eurytemora affinis
+      2 Hexapoda
+      2 Podoplea
+      2 Protostomia
+      1 Alphaproteobacteria
+      1 Aphidinae
+      1 Apocrita
+      1 Aureococcus anophagefferens
+      1 Bacteria
+      1 Cancer borealis
+      1 cellular organisms
+      1 Chelicerata
+      1 Clupeocephala
+      1 Digenea
+      1 Euarchontoglires
+      1 Eumetazoa
+      1 Euteleostomi
+      1 Formicidae
+      1 Fragilariopsis cylindrus CCMP1102
+      1 Fungi
+      1 Hemiptera
+      1 Larkinella
+      1 Mycobacteriaceae
+      1 Noctuidae
+      1 Opisthokonta
+      1 Osteoglossocephalai
+      1 Otomorpha
+      1 Otophysi
+      1 Platyhelminthes
+      1 Rhodobacteraceae
+      1 Sarcopterygii

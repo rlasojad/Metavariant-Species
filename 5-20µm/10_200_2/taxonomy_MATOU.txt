@@ -1,0 +1,24 @@
+   1136 
+     30 Maxillopoda
+      8 Calanoida
+      8 NULL
+      7 Bilateria
+      7 Calanidae
+      6 Eumetazoa
+      4 Hydrozoa
+      3 Neocopepoda
+      2 Chordata
+      2 Eukaryota
+      2 root
+      1 Arthropoda
+      1 Aves
+      1 Branchiopoda
+      1 Calanus
+      1 Chromadorea
+      1 Dinophyceae
+      1 Endopterygota
+      1 Hemiptera
+      1 Mandibulata
+      1 Mesangiospermae
+      1 Pancrustacea
+      1 Poxviridae

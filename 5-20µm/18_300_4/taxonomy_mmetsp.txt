@@ -1,0 +1,10 @@
+   2415 
+      2 Symbiodinium_sp.
+      2 Tetraselmis_striata
+      1 Anophryoides_haemophila
+      1 Chaetoceros_debilis
+      1 Florenciella_parvula
+      1 Goniomonas
+      1 Polytomella_parva
+      1 Pseudo-nitzschia_australis
+      1 Uronema

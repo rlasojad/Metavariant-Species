@@ -1,0 +1,17 @@
+   1098 
+     19 Calanoida
+      9 Maxillopoda
+      8 Calanidae
+      4 Bilateria
+      4 NULL
+      3 Calanus
+      3 Insecta
+      2 Eumetazoa
+      1 Actinopteri
+      1 Danaus
+      1 Endopterygota
+      1 Eukaryota
+      1 Hydrozoa
+      1 Metazoa
+      1 Ostreococcus
+      1 Protostomia

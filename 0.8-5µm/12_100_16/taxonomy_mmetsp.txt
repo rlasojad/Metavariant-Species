@@ -1,0 +1,9 @@
+   1216 
+     60 Phaeocystis_antarctica
+     19 Florenciella_parvula
+      5 Florenciella
+      3 Nephroselmis_pyriformis
+      1 Alexandrium_margalefii
+      1 Asterionellopsis_glacialis
+      1 Lingulodinium_polyedrum
+      1 Phaeocystis

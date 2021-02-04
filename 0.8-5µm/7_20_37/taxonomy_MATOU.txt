@@ -1,0 +1,9 @@
+   1123 
+     55 Synechococcus
+      6 Cyanobacteria
+      4 Chroococcales
+      2 Bacteria
+      1 cellular_organisms
+      1 Goniomonadaceae
+      1 Oscillatoriophycideae
+      1 Prochlorales

@@ -1,0 +1,20 @@
+    929 
+     27 Calanoida
+     27 Maxillopoda
+     10 Calanidae
+      8 Hydrozoa
+      4 Bilateria
+      3 Insecta
+      3 NULL
+      3 Protostomia
+      2 Dinophyceae
+      2 Eukaryota
+      2 Eumetazoa
+      2 Neocopepoda
+      1 Calanus
+      1 Deuterostomia
+      1 Diptera
+      1 Ecdysozoa
+      1 Endopterygota
+      1 Pancrustacea
+      1 root

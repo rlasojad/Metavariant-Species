@@ -1,0 +1,12 @@
+    981 
+      7 Symbiodinium_sp.
+      2 Phaeomonas_parva
+      1 Bigelowiella_natans
+      1 Chlorarachnion_reptans
+      1 Cryptomonas_paramecium
+      1 Emiliania_huxleyi
+      1 Pessonella
+      1 Pseudo-nitzschia_australis
+      1 Rhodopseudomonas
+      1 Thraustochytrium_sp.
+      1 uncultured_eukaryote

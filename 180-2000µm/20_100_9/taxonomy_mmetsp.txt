@@ -1,0 +1,11 @@
+    903 
+      1 Micromonas
+      1 Nitzschia
+      1 Ochromonas
+      1 Paramoeba_atlantica
+      1 Pessonella
+      1 Scrippsiella_hangoei
+      1 Sexangularia_sp._CB-2014
+      1 Strombidinopsis_acuminata
+      1 Symbiodinium_sp.
+      1 uncultured_eukaryote

@@ -1,0 +1,103 @@
+   1393 Alphaproteobacteria
+    681 
+    338 Alphaproteobacteria bacterium
+    335 alpha proteobacterium MED-G10
+    190 Proteobacteria
+    153 Bacteria
+    132 Rhodobacteraceae
+     84 Rhodobacterales
+     82 unclassified Alphaproteobacteria (miscellaneous)
+     70 Rhodobacterales bacterium TMED271
+     54 unclassified Pelagibacteraceae
+     36 unclassified Alphaproteobacteria
+     26 Alphaproteobacteria bacterium TMED62
+     18 Rhizobiales
+     17 Pelagibacteraceae bacterium TMED195
+     13 Alphaproteobacteria bacterium TMED194
+     13 Alphaproteobacteria bacterium TMED199
+     12 Pelagibacteraceae
+     10 cellular organisms
+     10 Gammaproteobacteria
+      8 Alphaproteobacteria bacterium MarineAlpha8_Bin1
+      8 Rickettsiales bacterium TMED131
+      8 root
+      5 Pelagibacteraceae bacterium TMED13
+      5 Pelagibacterales
+      5 unclassified Gammaproteobacteria
+      4 Pelagibacteraceae bacterium TMED65
+      4 Rhodospirillales
+      4 SAR116 cluster
+      4 Sphingomonadaceae
+      3 Alphaproteobacteria bacterium TMED54
+      3 Alphaproteobacteria bacterium TMED93
+      3 Flavobacteriaceae bacterium TMED212
+      3 Rickettsiales bacterium TMED127
+      3 Rickettsiales bacterium TMED211
+      3 Rickettsiales bacterium TMED251
+      2 Actinobacteria
+      2 Alphaproteobacteria bacterium MarineAlpha9_Bin4
+      2 Bacillaceae
+      2 bacterium TMED277
+      2 Bacteroidetes
+      2 Betaproteobacteria
+      2 Bradyrhizobiaceae
+      2 Candidatus Pelagibacter
+      2 Candidatus Pelagibacter sp. TMED197
+      2 Halomonas
+      2 Paracoccus
+      2 Pelagibacteraceae bacterium TMED146
+      2 Rhizobium/Agrobacterium group
+      2 Rhodobacteraceae bacterium
+      2 unclassified Bradyrhizobium
+      2 unclassified Gammaproteobacteria (miscellaneous)
+      1 Acetobacteraceae
+      1 Actinomycetales bacterium TMED115
+      1 Alcaligenaceae
+      1 Alphaproteobacteria bacterium MarineAlpha5_Bin11
+      1 Anderseniella sp. Alg231-50
+      1 Aureimonas
+      1 Azospirillum
+      1 Bacteroidetes/Chlorobi group
+      1 Burkholderiaceae bacterium
+      1 Burkholderiales
+      1 Candidatus Marinamargulisbacteria bacterium SCGC AG-410-N11
+      1 Candidatus Pelagibacter sp. TMED153
+      1 Candidatus Pelagibacter ubique
+      1 canis group
+      1 Cyanobacteria
+      1 FCB group
+      1 Firmicutes
+      1 Flavobacteriaceae
+      1 Flavobacteriales
+      1 Gammaproteobacteria bacterium TMED78
+      1 Hirschia maritima
+      1 Hyphomicrobiaceae
+      1 Komagataeibacter
+      1 Labrenzia
+      1 Legionella
+      1 Legionellaceae
+      1 Limnohabitans
+      1 Magnetospirillum
+      1 Magnoliopsida
+      1 Methylococcales
+      1 Negativicutes
+      1 PACMAD clade
+      1 Pontibacter
+      1 Prochlorococcus sp. MIT 0604
+      1 Pseudoalteromonas
+      1 Pseudoalteromonas luteoviolacea
+      1 Pseudomonas
+      1 Rhodobacteraceae bacterium TMED38
+      1 Rhodospirillaceae
+      1 Rickettsia
+      1 Rickettsiales bacterium TMED174
+      1 Rickettsiales bacterium TMED254
+      1 SAR116 cluster alpha proteobacterium HIMB100
+      1 Sphingopyxis terrae subsp. terrae NBRC 15098
+      1 Synechococcus sp. CC9605
+      1 Thermus
+      1 Thioclava
+      1 unclassified Betaproteobacteria (miscellaneous)
+      1 unclassified Pseudovibrio
+      1 unclassified Rhodobacteraceae
+      1 Verrucomicrobia bacterium TMED40

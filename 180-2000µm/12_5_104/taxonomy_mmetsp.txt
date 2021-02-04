@@ -1,0 +1,10 @@
+    888 
+      2 Polytomella_parva
+      1 Chaetoceros_debilis
+      1 Hemiselmis_rufescens
+      1 Lotharella_globosa
+      1 Lotharella_oceanica
+      1 Nitzschia
+      1 Pseudo-nitzschia_pungens
+      1 Sorites_sp.
+      1 uncultured_eukaryote

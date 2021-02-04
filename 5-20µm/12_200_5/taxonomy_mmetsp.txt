@@ -1,0 +1,11 @@
+   1657 
+      2 Florenciella_parvula
+      2 Fragilariopsis_kerguelensis
+      2 Rosalina
+      2 uncultured_eukaryote
+      1 Attheya_septentrionalis
+      1 Guillardia_theta
+      1 Haptolina_brevifila
+      1 Mesodinium_pulex
+      1 Pseudo-nitzschia_australis
+      1 Stygamoeba_regulata

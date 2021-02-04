@@ -1,0 +1,13 @@
+   1033 
+    184 Alteromonas
+     36 Alteromonadaceae
+     33 Alteromonas_macleodii
+     19 cellular_organisms
+      9 Alteromonadales
+      4 Gammaproteobacteria
+      4 root
+      3 Phaeodarea
+      2 Acanthoeca
+      2 Eukaryota
+      2 Nephroselmis
+      1 Acanthoecidae

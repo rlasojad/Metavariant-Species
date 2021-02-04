@@ -1,0 +1,16 @@
+   1012 
+     65 Vexillifera
+     39 Pseudo-nitzschia_fraudulenta
+     29 Alexandrium_margalefii
+     20 Acanthoeca
+     18 Nephroselmis_pyriformis
+     17 Palpitomonas_bilix
+     14 Asterionellopsis_glacialis
+      5 Dolichomastix_tenuilepis
+      2 Ochromonas
+      2 Symbiodinium_sp.
+      2 Thalassiosira_minuscula
+      1 Chaetoceros_debilis
+      1 Chrysochromulina_rotalis
+      1 Crustomastix_stigmatica
+      1 Pavlova_lutheri

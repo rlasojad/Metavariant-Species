@@ -1,0 +1,9 @@
+   1024 
+      6 NULL
+      2 Insecta
+      2 Percomorphaceae
+      1 Branchiopoda
+      1 Chromadorea
+      1 Cyclopoida
+      1 Demospongiae
+      1 Saccharomycetes

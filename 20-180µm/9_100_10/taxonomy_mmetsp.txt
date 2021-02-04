@@ -1,0 +1,20 @@
+   1965 
+      4 uncultured_eukaryote
+      2 Fragilariopsis_kerguelensis
+      2 Pyramimonas_parkeae
+      1 Amphiprora
+      1 Coccolithus_braarudii
+      1 Cryptomonas_paramecium
+      1 Heterocapsa_triquetra
+      1 Mantoniella_antarctica
+      1 Mayorella
+      1 Micromonas_pusilla
+      1 Phaeocystis_antarctica
+      1 Phaeomonas_parva
+      1 Pinguiococcus_pyrenoidosus
+      1 Pleurochrysis_carterae
+      1 Rhodella_maculata
+      1 Strombidium_rassoulzadegani
+      1 Symbiodinium_kawagutii
+      1 Symbiodinium_sp.
+      1 Tetraselmis_striata

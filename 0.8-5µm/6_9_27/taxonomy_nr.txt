@@ -1,0 +1,61 @@
+    394 
+    212 Alphaproteobacteria
+     72 Alphaproteobacteria bacterium TMED199
+     49 Proteobacteria
+     44 unclassified Alphaproteobacteria
+     38 unclassified Alphaproteobacteria (miscellaneous)
+     26 Bacteria
+     26 Rhodobacteraceae
+     14 Rhizobiales
+     10 Alphaproteobacteria bacterium
+      9 SAR116 cluster
+      8 Alphaproteobacteria bacterium TMED54
+      8 Rhodospirillales
+      7 Rhodospirillaceae
+      6 Gammaproteobacteria
+      4 Thalassospira
+      3 Acetobacteraceae
+      3 Pelagibacteraceae
+      2 Actinobacteria
+      2 Alphaproteobacteria bacterium TMED194
+      2 Alteromonadales
+      2 bacterium TMED277
+      2 Betaproteobacteria
+      2 Burkholderiaceae
+      2 cellular organisms
+      2 Rhizobium/Agrobacterium group
+      2 root
+      2 Sphingomonadales
+      1 Agrobacterium
+      1 alpha proteobacterium MED-G10
+      1 Bacilli
+      1 Bradyrhizobium
+      1 Bradyrhizobium betae
+      1 Brucella
+      1 Burkholderiales
+      1 Candidatus Pelagibacter
+      1 Candidatus Pelagibacter sp. TMED142
+      1 Candidatus Puniceispirillum
+      1 Candidatus Tokpelaia sp. JSC161
+      1 Chitinophagaceae
+      1 Dyadobacter
+      1 Firmicutes
+      1 Leptospira
+      1 Mesorhizobium
+      1 Methylobacteriaceae
+      1 Methylocystis
+      1 Micavibrio sp. TMED27
+      1 Oceanospirillales bacterium TMED59
+      1 Oxalobacteraceae
+      1 Phyllobacteriaceae
+      1 Polynucleobacter rarus
+      1 Pseudomonas
+      1 Pseudonocardiaceae
+      1 Pseudovibrio
+      1 Rhodobacterales
+      1 Rickettsiales
+      1 Robiginitomaculum sp.
+      1 Roseovarius
+      1 Sphingomonadaceae
+      1 unclassified Gammaproteobacteria
+      1 unclassified Mesorhizobium

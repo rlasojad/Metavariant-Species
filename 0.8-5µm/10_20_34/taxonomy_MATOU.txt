@@ -1,0 +1,25 @@
+    968 
+     27 Deltaproteobacteria
+     23 SAR324
+     19 SAR324_cluster
+     17 unclassified_Deltaproteobacteria
+     15 Alphaproteobacteria
+     14 Proteobacteria
+     13 Bacteria
+      6 uncultured
+      4 root
+      3 Gammaproteobacteria
+      2 Rhodobacterales
+      2 unclassified_Alphaproteobacteria
+      1 Candidatus_Entotheonella
+      1 Cyanobacteria
+      1 Desulfobacteraceae
+      1 Dinophyceae
+      1 environmental_samples
+      1 Nostocales
+      1 Oceanospirillales
+      1 Rhizobiaceae
+      1 Thalassiosirales
+      1 unclassified
+      1 Verrucomicrobiae
+      1 Xanthomonadales

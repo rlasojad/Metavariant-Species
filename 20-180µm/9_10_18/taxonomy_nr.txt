@@ -1,0 +1,59 @@
+    842 
+     51 Pancrustacea
+     46 Eurytemora affinis
+     23 Neocopepoda
+     14 Bilateria
+     12 Arthropoda
+      9 Holometabola
+      9 Neoptera
+      7 Multicrustacea
+      7 Protostomia
+      5 Euteleostomi
+      4 Eumetazoa
+      3 Apostichopus japonicus
+      3 cellular organisms
+      3 Chelicerata
+      3 Crustacea
+      3 Hexapoda
+      3 Mandibulata
+      2 Ditrysia
+      2 Ecdysozoa
+      2 Schizophora
+      2 Tigriopus californicus
+      1 Aculeata
+      1 Anthozoa
+      1 Aphididae
+      1 Aphidinae
+      1 Apidae
+      1 Apoidea
+      1 Attini
+      1 Aureobasidium pullulans
+      1 Bacillaceae
+      1 Bacteria
+      1 Calanoida
+      1 Centropages tenuiremis
+      1 Chlorophyta
+      1 Chromadorea
+      1 Clunio marinus
+      1 Clupeocephala
+      1 Coemansia reversa NRRL 1564
+      1 Cyanobacteria
+      1 Drosophila
+      1 Emiliania huxleyi CCMP1516
+      1 Entelegynae
+      1 Eukaryota
+      1 Formicidae
+      1 Fungi
+      1 Hexacorallia
+      1 Hymenoptera
+      1 Lepeophtheirus salmonis
+      1 Lophotrochozoa
+      1 Lottia gigantea
+      1 melanogaster group
+      1 Noctuidae
+      1 Obtectomera
+      1 Papilionoidea
+      1 Paraneoptera
+      1 Pseudodiaptomus poplesia
+      1 Trichinella
+      1 Zootermopsis nevadensis

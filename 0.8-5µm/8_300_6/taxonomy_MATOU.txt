@@ -1,0 +1,20 @@
+   1350 
+     69 alpha
+     31 Rhodobacteraceae
+     17 Alphaproteobacteria
+      9 Rhodobacterales
+      4 cellular_organisms
+      2 Proteobacteria
+      2 root
+      2 uncultured
+      1 Acanthamoeba
+      1 Actinobacteria
+      1 Aplysiidae
+      1 Bacteria
+      1 Octadecabacter
+      1 Pelagibacterales
+      1 SAR116
+      1 Thalassiosiraceae
+      1 Thalassiosirales
+      1 unclassified
+      1 unclassified_Alphaproteobacteria

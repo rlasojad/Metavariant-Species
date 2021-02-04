@@ -1,0 +1,8 @@
+   1367 
+      1 Bathycoccus_prasinos
+      1 Eutreptiella_gymnastica
+      1 Karlodinium_veneficum
+      1 Skeletonema_japonicum
+      1 Stauroneis_constricta
+      1 Stereomyxa_ramosa
+      1 Vannella_sp._CB-2014

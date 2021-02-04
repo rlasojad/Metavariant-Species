@@ -1,0 +1,5 @@
+    492 Micromonas
+    470 Micromonas_pusilla
+     18 
+      2 Alexandrium_tamarense
+      1 Phaeocystis

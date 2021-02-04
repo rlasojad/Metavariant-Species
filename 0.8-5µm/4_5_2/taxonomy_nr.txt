@@ -1,0 +1,65 @@
+    286 Cellvibrionales
+    205 Gammaproteobacteria
+    118 
+     58 Proteobacteria
+     54 Cellvibrionales bacterium TMED49
+     40 unclassified Porticoccaceae
+     22 Bacteria
+     20 Flavobacteriaceae
+     11 unclassified Cellvibrionales
+     11 unclassified Gammaproteobacteria
+     10 Alphaproteobacteria
+      8 Porticoccaceae
+      7 Flavobacteriales
+      7 Flavobacteriales bacterium
+      5 Bacteroidetes
+      5 Oceanospirillales
+      5 Pelagibacteraceae
+      5 Rhodobacteraceae
+      5 SAR92 clade
+      4 Halieaceae
+      4 unclassified Gammaproteobacteria (miscellaneous)
+      3 Cellvibrionales bacterium TMED157
+      3 Halieaceae bacterium MED-G26
+      2 Alteromonadaceae
+      2 Alteromonadales
+      2 Cellvibrio
+      2 gamma proteobacterium HIMB55
+      2 Planctomycetes
+      2 Pseudoalteromonas
+      2 PVC group
+      2 SAR116 cluster
+      1 Acinetobacter
+      1 Aeromonas
+      1 Alcanivorax
+      1 Bacillales
+      1 Bacteroidetes/Chlorobi group
+      1 Betaproteobacteria
+      1 Burkholderiaceae
+      1 Burkholderiales
+      1 Candidatus Endolissoclinum sp. TMED37
+      1 Cellvibrionaceae
+      1 Cupriavidus
+      1 Cyanobacteria
+      1 Cytophagales
+      1 Emiliania huxleyi CCMP1516
+      1 Enterobacterales
+      1 Flavobacterium
+      1 Gammaproteobacteria bacterium
+      1 Gammaproteobacteria bacterium TMED242
+      1 Halieaceae bacterium MED-G27
+      1 Hyphomonas sp. TMED17
+      1 Marinobacter
+      1 Muricauda
+      1 OM182 clade
+      1 Pelagibacterales
+      1 Photobacterium
+      1 Planctomycetaceae bacterium
+      1 Pseudomonas
+      1 Puniceicoccaceae bacterium
+      1 SAR92 bacterium MED-G29
+      1 SAR92 clade bacterium
+      1 Sphingobium
+      1 unclassified Pelagibacteraceae
+      1 Verrucomicrobiaceae bacterium
+      1 Xanthomonadales

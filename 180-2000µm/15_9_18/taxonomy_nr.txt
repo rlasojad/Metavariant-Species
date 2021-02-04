@@ -1,0 +1,27 @@
+    860 
+     13 Eumetazoa
+      6 Bilateria
+      4 cellular organisms
+      3 Clupeocephala
+      2 Acropora millepora
+      2 Chordata
+      2 Euteleostomi
+      2 Hexacorallia
+      2 Holometabola
+      2 Neoptera
+      2 Penaeus vannamei
+      2 Pocillopora damicornis
+      1 Araneus ventricosus
+      1 Bathymodiolus brooksi thiotrophic gill symbiont
+      1 Cnidaria
+      1 Cyprinus carpio
+      1 Haemonchus placei
+      1 Hydra vulgaris
+      1 Myrmicinae
+      1 Octopus bimaculoides
+      1 Orbicella faveolata
+      1 Oryzias javanicus
+      1 Parambassis ranga
+      1 Schistocephalus solidus
+      1 Tetrapoda
+      1 Trichoplusia ni

@@ -1,0 +1,25 @@
+   1149 
+    105 Oithona_nana
+     87 Oithona
+     27 Oithonidae
+     15 Maxillopoda
+      8 Insecta
+      6 Cyclopoida
+      5 Bilateria
+      5 Endopterygota
+      3 Calanidae
+      3 Neocopepoda
+      3 NULL
+      2 Calanoida
+      2 Deuterostomia
+      2 Eukaryota
+      2 Neoptera
+      2 Pancrustacea
+      2 root
+      1 Arthropoda
+      1 Eumetazoa
+      1 Eutheria
+      1 Metazoa
+      1 Opisthokonta
+      1 Siphonostomatoida
+      1 Theria

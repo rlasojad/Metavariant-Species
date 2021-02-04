@@ -1,0 +1,17 @@
+   1954 
+     15 Maxillopoda
+      9 Bilateria
+      7 Calanoida
+      5 Eumetazoa
+      5 NULL
+      3 Calanidae
+      3 Hydrozoa
+      2 Actinopteri
+      2 Euteleostomi
+      1 Arthropoda
+      1 Calanus
+      1 Chromadorea
+      1 Demospongiae
+      1 Deuterostomia
+      1 Echinoidea
+      1 Opisthokonta

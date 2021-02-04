@@ -1,0 +1,25 @@
+   1072 
+      4 Neoptera
+      3 Arthropoda
+      2 Calanoida
+      2 Poecilostomatoida
+      1 Agaricomycetidae
+      1 Bilateria
+      1 cellular organisms
+      1 Cucujiformia
+      1 Eukaryota
+      1 Eumetazoa
+      1 Helobdella robusta
+      1 Holometabola
+      1 Metacrangonyx
+      1 Neobatrachia
+      1 Obtectomera
+      1 Panarthropoda
+      1 Pancrustacea
+      1 Phyllodocida
+      1 Poaceae
+      1 Podoplea
+      1 Poeciliinae
+      1 Protostomia
+      1 Rickettsiales bacterium
+      1 Tenebrionoidea

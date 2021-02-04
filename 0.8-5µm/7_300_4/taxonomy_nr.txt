@@ -1,0 +1,61 @@
+    208 unclassified Gammaproteobacteria
+    194 Gammaproteobacteria
+    157 unclassified Gammaproteobacteria (miscellaneous)
+    132 
+     85 Proteobacteria
+     48 OM182 bacterium
+     35 Bacteria
+     21 Gammaproteobacteria bacterium TMED134
+     17 Alphaproteobacteria
+     16 Gammaproteobacteria bacterium TMED57
+     11 Rhodobacteraceae
+      9 SAR116 cluster
+      6 Rhizobiales
+      5 Flavobacteriaceae
+      4 Flavobacteriales
+      4 Hyphomicrobiaceae bacterium TMED74
+      3 Bacteroidetes
+      3 root
+      3 unclassified Synechococcus
+      2 Burkholderiales
+      2 cellular organisms
+      2 Gammaproteobacteria bacterium TMED30
+      2 Hyphomicrobiaceae
+      2 Oceanospirillales
+      2 unclassified Alphaproteobacteria
+      2 unclassified SAR116 cluster
+      1 Acetobacteraceae
+      1 Actinobacteria
+      1 Alteromonadaceae
+      1 Alteromonadaceae bacterium TMED101
+      1 Bacillales
+      1 Candidatus Puniceispirillum
+      1 Comamonadaceae
+      1 Cyanobacteria
+      1 Cytophagales
+      1 Euryarchaeota archaeon TMED255
+      1 Flavobacteriales bacterium
+      1 Flavobacterium
+      1 Gammaproteobacteria bacterium
+      1 Gammaproteobacteria bacterium TMED243
+      1 Halieaceae bacterium IMCC3088
+      1 Halieaceae bacterium MED-G27
+      1 Hyphomicrobium
+      1 Hyphomonadaceae
+      1 Mesorhizobium
+      1 Nitrospirae
+      1 Phenylobacterium
+      1 Proteobacteria bacterium
+      1 Rhodospirillales
+      1 SAR116 cluster bacterium
+      1 SAR116 cluster bacterium MED-G05
+      1 SAR116 cluster bacterium MED-G06
+      1 SAR86 cluster
+      1 Shewanella
+      1 Sphingomonadaceae
+      1 Sphingomonadales
+      1 Synechococcales
+      1 Synechococcus
+      1 unclassified Planctomycetes
+      1 uncultured alpha proteobacterium HF0070_17D04
+      1 Xanthomonadaceae

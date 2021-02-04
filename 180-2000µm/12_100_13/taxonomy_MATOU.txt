@@ -1,0 +1,20 @@
+   1211 
+      4 Bilateria
+      3 NULL
+      2 Calanoida
+      2 Eukaryota
+      2 Eumetazoa
+      1 Branchiostomidae
+      1 Deuterostomia
+      1 Dinophyceae
+      1 Echinoida
+      1 Echinoidea
+      1 Euteleostomi
+      1 Haplosclerida
+      1 Insecta
+      1 Maxillopoda
+      1 Neoptera
+      1 Pancrustacea
+      1 Prorocentraceae
+      1 Protostomia
+      1 Stramenopiles

@@ -1,0 +1,8 @@
+    986 
+      3 Phaeomonas_parva
+      2 Pavlova
+      1 Alexandrium_monilatum
+      1 Bigelowiella_longifila
+      1 Lotharella_oceanica
+      1 Symbiodinium_sp.
+      1 uncultured_eukaryote

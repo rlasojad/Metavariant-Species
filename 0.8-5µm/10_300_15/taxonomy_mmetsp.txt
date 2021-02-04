@@ -1,0 +1,14 @@
+   3809 
+      2 Asterionellopsis_glacialis
+      1 Aplanochytrium_stocchinoi
+      1 Chaetoceros_cf._neogracile
+      1 Chaetoceros_neogracile
+      1 Chattonella_subsalsa
+      1 Cylindrotheca_closterium
+      1 Imantonia
+      1 Ochromonas
+      1 Paraphysomonas_vestita
+      1 Pycnococcus_provasolii
+      1 Rhodosorus_marinus
+      1 Symbiodinium_sp.
+      1 Thalassiosira_minuscula

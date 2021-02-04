@@ -1,0 +1,10 @@
+    971 
+      2 Goniomonas_pacifica
+      2 Rhodella_maculata
+      2 uncultured_eukaryote
+      1 Acanthoeca
+      1 Chroomonas_cf._mesostigmatica
+      1 Eucampia_antarctica
+      1 Hemiselmis_tepida
+      1 Kryptoperidinium_foliaceum
+      1 Synchroma_pusillum

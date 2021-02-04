@@ -1,0 +1,14 @@
+   1075 
+      6 Bilateria
+      5 Insecta
+      4 Deuterostomia
+      2 Enteropneusta
+      2 NULL
+      2 Opisthokonta
+      1 Amniota
+      1 Dinophyceae
+      1 Eumetazoa
+      1 Hydrozoa
+      1 Percomorphaceae
+      1 Pyramimonadales
+      1 Trichocephalida

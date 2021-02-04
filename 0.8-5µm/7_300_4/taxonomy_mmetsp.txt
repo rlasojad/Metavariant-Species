@@ -1,0 +1,15 @@
+    994 
+      2 Chaetoceros_curvisetus
+      2 Oxyrrhis_marina
+      1 Chlamydomonas_euryale
+      1 Corethron_hystrix
+      1 Florenciella
+      1 Heterosigma_akashiwo
+      1 Nephroselmis_pyriformis
+      1 Paraphysomonas_bandaiensis
+      1 Pavlova
+      1 Pteridomonas_danica
+      1 Rhodomonas_abbreviata
+      1 Scrippsiella_trochoidea
+      1 Thalassiosira_minuscula
+      1 Vannella

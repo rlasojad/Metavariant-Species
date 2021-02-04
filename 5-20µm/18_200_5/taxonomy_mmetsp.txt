@@ -1,0 +1,7 @@
+    950 
+      1 Bolidomonas
+      1 Karenia_brevis
+      1 Paramoeba_aestuarina
+      1 Pyramimonas_sp.
+      1 Rhodomonas_lens
+      1 uncultured_eukaryote

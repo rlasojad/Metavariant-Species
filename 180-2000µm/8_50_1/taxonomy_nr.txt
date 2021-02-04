@@ -1,0 +1,30 @@
+   1238 
+     38 Eurytemora affinis
+     16 Pancrustacea
+     10 Neocopepoda
+      8 Holometabola
+      7 Protostomia
+      6 Arthropoda
+      6 Neoptera
+      5 Bilateria
+      3 Chordata
+      3 Hexapoda
+      3 Multicrustacea
+      2 Crustacea
+      2 Euteleostomi
+      2 Polyphaga
+      2 Sophophora
+      2 Tigriopus californicus
+      1 Aphidinae
+      1 cellular organisms
+      1 Culicidae
+      1 Cyprinidae
+      1 Diptera
+      1 Entomobryomorpha
+      1 Eumetazoa
+      1 Formicidae
+      1 Hymenoptera
+      1 Platyhelminthes
+      1 Pleocyemata
+      1 Podoplea
+      1 Trachymyrmex cornetzi

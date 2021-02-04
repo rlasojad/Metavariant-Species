@@ -1,0 +1,12 @@
+    979 
+      3 uncultured_eukaryote
+      2 Acanthoeca
+      1 Aureococcus_anophagefferens
+      1 Chrysochromulina_rotalis
+      1 Climacostomum_virens
+      1 Eutreptiella_gymnastica
+      1 Hemiselmis_tepida
+      1 Partenskyella_glossopodia
+      1 Pyramimonas_sp.
+      1 Strombidinopsis_acuminata
+      1 Thalassiosira_weissflogii

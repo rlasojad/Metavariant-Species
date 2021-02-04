@@ -1,0 +1,17 @@
+   1004 
+      2 Gastropoda
+      2 NULL
+      1 Actinopteri
+      1 Agaricomycetes
+      1 Bilateria
+      1 Calanus
+      1 Chromadorea
+      1 Cnidaria
+      1 Eumetazoa
+      1 Hydridae
+      1 Hydrozoa
+      1 Leptothecata
+      1 Neoptera
+      1 Opisthokonta
+      1 Phaeodarea
+      1 Saccharomycetales

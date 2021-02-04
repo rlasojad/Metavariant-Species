@@ -1,0 +1,11 @@
+   1080 
+    149 Synechococcus
+     18 Cyanobacteria
+     11 Chroococcales
+      5 cellular_organisms
+      5 Oscillatoriophycideae
+      2 Bacteria
+      2 Prochlorococcus
+      2 root
+      1 Euteleostomi
+      1 Prochlorococcaceae

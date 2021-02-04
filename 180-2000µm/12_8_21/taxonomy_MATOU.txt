@@ -1,0 +1,25 @@
+   2691 
+     11 Bilateria
+      7 Maxillopoda
+      4 Insecta
+      4 NULL
+      3 Deuterostomia
+      3 Echinoidea
+      3 Neocopepoda
+      3 Strongylocentrotidae
+      2 Demospongiae
+      2 Eukaryota
+      2 Eumetazoa
+      2 Protostomia
+      2 Tetrapoda
+      1 Calanoida
+      1 Calanus
+      1 Dinophyceae
+      1 Ecdysozoa
+      1 Echinoida
+      1 Euteleostomi
+      1 Fragilariophyceae
+      1 Haplosclerida
+      1 Hymenoptera
+      1 Metazoa
+      1 root

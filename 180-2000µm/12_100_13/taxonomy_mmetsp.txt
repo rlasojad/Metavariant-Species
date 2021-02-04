@@ -1,0 +1,25 @@
+   1110 
+      5 uncultured_eukaryote
+      2 Fragilariopsis_kerguelensis
+      2 Paramoeba_aestuarina
+      2 Phaeomonas_parva
+      2 Polytomella_parva
+      2 Schizochytrium_aggregatum
+      1 Alexandrium_monilatum
+      1 Bolidomonas_pacifica
+      1 Chromera_velia
+      1 Craspedostauros_australis
+      1 Crypthecodinium_cohnii
+      1 Dictyocha_speculum
+      1 Ditylum_brightwellii
+      1 Dolichomastix_tenuilepis
+      1 Eutreptiella_gymnastica
+      1 Geminigera
+      1 Gloeochaete_wittrockiana
+      1 Karenia_brevis
+      1 Licmophora_paradoxa
+      1 Paramoeba_atlantica
+      1 Pinguiococcus_pyrenoidosus
+      1 Prorocentrum_minimum
+      1 Prymnesium_parvum
+      1 Thalassiosira_rotula

@@ -1,0 +1,15 @@
+   1080 
+      5 Bilateria
+      3 NULL
+      2 Eukaryota
+      1 Amniota
+      1 Calanoida
+      1 Chordata
+      1 Cyclopoida
+      1 Endopterygota
+      1 Florenciella
+      1 Insecta
+      1 Metazoa
+      1 Oikopleuridae
+      1 Prorocentrum_minimum
+      1 Vertebrata

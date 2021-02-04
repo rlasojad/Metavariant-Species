@@ -1,0 +1,17 @@
+    962 
+      5 Bilateria
+      4 Eumetazoa
+      2 cellular organisms
+      2 Neoptera
+      2 Protostomia
+      1 Apostichopus japonicus
+      1 Astrocoeniina
+      1 Deuterostomia
+      1 Enterospora canceri
+      1 Eukaryota
+      1 Gekko japonicus
+      1 Hydra vulgaris
+      1 Metazoa
+      1 Penaeus vannamei
+      1 Pentapetalae
+      1 Xiphophorus maculatus

@@ -1,0 +1,16 @@
+    787 
+     44 Vexillifera
+     22 Pseudo-nitzschia_fraudulenta
+     13 Palpitomonas_bilix
+     12 Alexandrium_margalefii
+      7 Asterionellopsis_glacialis
+      6 Acanthoeca
+      5 Dolichomastix_tenuilepis
+      3 Nephroselmis_pyriformis
+      2 Lotharella_globosa
+      2 Phaeomonas_parva
+      2 uncultured_eukaryote
+      1 Crustomastix_stigmatica
+      1 Pycnococcus_provasolii
+      1 Symbiodinium_sp.
+      1 Thalassiosira_rotula

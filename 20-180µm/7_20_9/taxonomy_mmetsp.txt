@@ -1,0 +1,10 @@
+    842 
+      3 Symbiodinium_sp.
+      1 Aristerostoma
+      1 Coccolithus_braarudii
+      1 Ditylum_brightwellii
+      1 Heterosigma_akashiwo
+      1 Odontella_aurita
+      1 Odontella_sinensis
+      1 Paramoeba_aestuarina
+      1 Vexillifera

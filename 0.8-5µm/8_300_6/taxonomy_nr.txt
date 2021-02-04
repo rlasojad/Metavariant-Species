@@ -1,0 +1,23 @@
+    773 Rhodobacteraceae
+    233 unclassified Rhodobacteraceae
+     85 
+     59 Alphaproteobacteria
+     52 Rhodobacteraceae bacterium MED-G08
+     21 Rhodobacterales
+     19 Proteobacteria
+      7 Bacteria
+      5 Rhizobiales
+      3 Rhodobacteraceae bacterium TMED38
+      2 Paracoccus
+      2 Sulfitobacter
+      1 Bacilli
+      1 cellular organisms
+      1 Devosia
+      1 Gammaproteobacteria
+      1 Phaeobacter
+      1 Phyllobacterium
+      1 root
+      1 Ruegeria
+      1 Streptomyces
+      1 Thalassospira
+      1 uncultured proteobacterium eBACred25D05

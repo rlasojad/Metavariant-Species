@@ -1,0 +1,35 @@
+    304 Micromonas commoda
+    272 
+     74 Micromonas
+     74 Viridiplantae
+     72 Mamiellales
+     57 Chlorophyta
+     36 Eukaryota
+     29 cellular organisms
+     12 Micromonas pusilla CCMP1545
+      8 Mesangiospermae
+      7 Mamiellaceae
+      4 Bacteria
+      4 Embryophyta
+      2 Alphaproteobacteria
+      2 Bathycoccaceae
+      2 Bilateria
+      2 fabids
+      2 Mamiellophyceae
+      2 Ostreococcus
+      2 Pentapetalae
+      2 Tracheophyta
+      1 Aculeata
+      1 Brassicaceae
+      1 Chlamydomonadales
+      1 Eumetazoa
+      1 Gnathostomata
+      1 Malvaceae
+      1 Onchocercidae
+      1 Oomycetes
+      1 Opisthokonta
+      1 Polyphaga
+      1 rosids
+      1 Saprolegniaceae
+      1 Sordariomycetes
+      1 Streptophytina

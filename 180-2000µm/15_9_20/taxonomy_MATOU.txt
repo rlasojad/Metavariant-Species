@@ -1,0 +1,13 @@
+   1107 
+      2 Actiniaria
+      2 Eukaryota
+      2 Nematostella
+      1 Branchiostomidae
+      1 Eumetazoa
+      1 Euteleostomi
+      1 Hydrozoa
+      1 Insecta
+      1 Microbotryomycetes
+      1 Minutocellus_polymorphus
+      1 Muricidae
+      1 NULL

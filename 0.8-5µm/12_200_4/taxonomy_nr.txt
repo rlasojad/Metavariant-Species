@@ -1,0 +1,75 @@
+    370 
+    214 Alphaproteobacteria
+     72 Proteobacteria
+     65 Rhodobacteraceae
+     28 Bacteria
+     21 Rhizobiales
+     18 SAR116 cluster
+     12 Rhodobacterales
+      9 Rhodospirillales
+      9 unclassified Alphaproteobacteria
+      9 unclassified Alphaproteobacteria (miscellaneous)
+      6 Phyllobacteriaceae
+      5 cellular organisms
+      5 Pelagibacteraceae
+      4 Gammaproteobacteria
+      4 Rhodobacteraceae bacterium
+      3 Azospirillum
+      3 Pelagibacterales
+      3 Rhizobiaceae
+      3 Rhodospirillaceae
+      3 Rhodospirillaceae bacterium TMED140
+      3 Thioclava
+      2 Acetobacteraceae
+      2 Bosea
+      2 Bradyrhizobiaceae
+      2 Labrenzia
+      2 Pseudomonas
+      2 Rhizobiales bacterium
+      2 Rhizobium
+      2 Rhizobium/Agrobacterium group
+      2 SAR116 cluster bacterium MED-G05
+      2 unclassified SAR116 cluster
+      1 Agaricomycotina
+      1 Alphaproteobacteria bacterium
+      1 Alphaproteobacteria bacterium TMED87
+      1 Bacteroidetes
+      1 Brucellaceae
+      1 Burkholderiales
+      1 Candidatus Puniceispirillum marinum IMCC1322
+      1 Candidatus Thioglobus
+      1 Candidatus Thioglobus singularis
+      1 Chromatiales bacterium (ex Bugula neritina AB1)
+      1 Cupriavidus
+      1 Dongia sp. URHE0060
+      1 Ensifer
+      1 Erythrobacter
+      1 Firmicutes
+      1 Hyphomicrobiaceae
+      1 Hyphomonadaceae
+      1 Lautropia sp. SCN 70-15
+      1 Mesorhizobium
+      1 Microvirga
+      1 Motiliproteus sp. MSK22-1
+      1 Paracoccus
+      1 Pelagibacterium
+      1 Proteobacteria bacterium TMED154
+      1 Proteobacteria bacterium TMED61
+      1 Pseudoalteromonas
+      1 Pseudomonadales
+      1 Pseudoruegeria lutimaris
+      1 Psychrobacter
+      1 Rhodobacterales bacterium
+      1 root
+      1 Roseovarius sp. HI0049
+      1 SAR116 cluster alpha proteobacterium HIMB100
+      1 SAR116 cluster bacterium
+      1 Shinella
+      1 Sphingomonadaceae
+      1 Sphingomonadales
+      1 Sphingomonas
+      1 Terrabacteria group
+      1 unclassified Fibrobacter
+      1 unclassified Mesorhizobium
+      1 Varunaivibrio sulfuroxidans
+      1 Wolbachia

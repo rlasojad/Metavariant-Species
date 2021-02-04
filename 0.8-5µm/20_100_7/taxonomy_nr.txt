@@ -1,0 +1,20 @@
+    802 unclassified Synechococcus
+    112 
+      7 Micromonas commoda
+      4 Synechococcales
+      3 Synechococcus sp. CC9605
+      3 Synechococcus sp. WH 8109
+      2 Synechococcaceae
+      1 Betaproteobacteria
+      1 Chlorophyta
+      1 Cyanobacteria
+      1 Cyanobacteria bacterium TMED229
+      1 Micromonas
+      1 Micromonas pusilla CCMP1545
+      1 Prochlorococcus
+      1 root
+      1 Synechococcus
+      1 Synechococcus sp. BL107
+      1 Synechococcus sp. N19
+      1 Synechococcus sp. N32
+      1 uncultured Synechococcus sp.

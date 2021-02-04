@@ -1,0 +1,11 @@
+    920 
+     51 Synechococcus
+     19 Chroococcales
+      5 Cyanobacteria
+      5 Oscillatoriophycideae
+      1 cellular_organisms
+      1 Eukaryota
+      1 Mamiellales
+      1 Prochlorales
+      1 Pyramimonas
+      1 Thalassiosirales

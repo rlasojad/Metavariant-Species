@@ -1,0 +1,17 @@
+   1007 
+      3 Haptophyceae
+      2 Eukaryota
+      2 Maxillopoda
+      1 Bacillariophyta
+      1 Bilateria
+      1 Calanoida
+      1 Calcidiscaceae
+      1 Chilopoda
+      1 Chrysophyceae
+      1 Daphnia
+      1 Euteleostomi
+      1 Florenciella
+      1 Mammalia
+      1 NULL
+      1 Phaeocystis
+      1 Thoracosphaeraceae

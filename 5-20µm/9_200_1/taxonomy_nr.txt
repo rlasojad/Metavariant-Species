@@ -1,0 +1,22 @@
+    502 Planctomycetes
+    126 Planctomycetia
+    101 
+     75 Phycisphaeraceae bacterium
+     67 Planctomycetaceae bacterium TMED138
+     50 Bacteria
+     27 unclassified Planctomycetes
+     22 PVC group
+      6 Planctomycetales
+      5 Pelagibacteraceae bacterium TMED259
+      5 Planctomycetes bacterium
+      3 Gammaproteobacteria
+      3 Planctomycetaceae
+      2 Verrucomicrobia
+      1 Alphaproteobacteria
+      1 Amycolatopsis
+      1 Bacillus
+      1 Planctomycetia bacterium
+      1 Rhodobacteraceae
+      1 Rhodopirellula
+      1 Shewanella
+      1 unclassified Planctomycetaceae

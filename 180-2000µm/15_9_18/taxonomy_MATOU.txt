@@ -1,0 +1,24 @@
+    957 
+      9 Actinopteri
+      7 Insecta
+      4 Eumetazoa
+      3 Bilateria
+      3 Echinoidea
+      3 Protostomia
+      2 Chromadorea
+      2 Clupeocephala
+      2 Deuterostomia
+      2 Echinoida
+      2 Maxillopoda
+      1 Amniota
+      1 Anthozoa
+      1 Apis
+      1 Arthropoda
+      1 Branchiostomidae
+      1 Coleoptera
+      1 Enteropneusta
+      1 Euteleostomi
+      1 NULL
+      1 Percomorphaceae
+      1 Sarcopterygii
+      1 Testudines

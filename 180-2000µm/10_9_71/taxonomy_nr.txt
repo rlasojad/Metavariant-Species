@@ -1,0 +1,34 @@
+    833 
+     35 Eumetazoa
+     22 Hexacorallia
+     12 Bilateria
+      7 cellular organisms
+      6 Anthozoa
+      4 Hydra vulgaris
+      3 Acropora millepora
+      3 Dendronephthya gigantea
+      3 Penaeus vannamei
+      3 Protostomia
+      2 Acropora digitifera
+      2 Astrocoeniina
+      2 Cnidaria
+      2 Exaiptasia pallida
+      2 Ixodes scapularis
+      2 Reticulomyxa filosa
+      1 Actiniaria
+      1 Arthropoda
+      1 Bacteria
+      1 bacterium endosymbiont of Escarpia laminata
+      1 Branchiostoma belcheri
+      1 Ecdysozoa
+      1 Elysia chlorotica
+      1 Gammaproteobacteria
+      1 Lingula anatina
+      1 Macrostomum lignano
+      1 Octopus bimaculoides
+      1 Octopus vulgaris
+      1 Ovalentaria
+      1 Pocillopora damicornis
+      1 Priapulus caudatus
+      1 Trypanosoma
+      1 Vibrio parahaemolyticus

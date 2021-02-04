@@ -1,0 +1,23 @@
+   1593 Phaeocystis_antarctica
+    553 
+    196 Phaeocystis
+     18 uncultured_eukaryote
+      5 Prymnesium_polylepis
+      3 Florenciella_parvula
+      2 Alexandrium_margalefii
+      2 Calcidiscus_leptoporus
+      2 Haptolina_brevifila
+      2 Phaeomonas_parva
+      1 Chrysochromulina_rotalis
+      1 Coccolithus_braarudii
+      1 Corethron_pennatum
+      1 Emiliania_huxleyi
+      1 Haptolina_ericina
+      1 Hemiselmis_virescens
+      1 Isochrysis
+      1 Oxyrrhis_marina
+      1 Pavlova_gyrans
+      1 Pleurochrysis_carterae
+      1 Prasinoderma_coloniale
+      1 Prymnesium_parvum
+      1 Scyphosphaera_apsteinii

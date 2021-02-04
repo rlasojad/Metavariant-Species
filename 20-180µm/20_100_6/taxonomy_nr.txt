@@ -1,0 +1,28 @@
+    913 
+      5 Chlorophyta
+      2 Anthozoa
+      2 Bilateria
+      2 Eukaryota
+      2 Hydra vulgaris
+      2 Opisthokonta
+      2 Protostomia
+      1 Aedes albopictus
+      1 cellular organisms
+      1 Chilo suppressalis
+      1 Cnidaria
+      1 Cucumis melo
+      1 Dendronephthya gigantea
+      1 Eumetazoa
+      1 Hexacorallia
+      1 Holometabola
+      1 Hypsibioidea
+      1 Ixodes scapularis
+      1 Lophotrochozoa
+      1 Neoptera
+      1 Oikopleura dioica
+      1 Pentapetalae
+      1 Platyhelminthes
+      1 Saccoglossus kowalevskii
+      1 Tachysurus fulvidraco
+      1 Tetraselmis sp. CCMP 881
+      1 Tracheophyta

@@ -1,0 +1,24 @@
+    885 
+      3 Eumetazoa
+      2 Bilateria
+      2 Caenorhabditis
+      2 Protostomia
+      1 Anthoathecata
+      1 Anthozoa
+      1 Araneus ventricosus
+      1 Arthropoda
+      1 Capitella teleta
+      1 cellular organisms
+      1 Cnidaria
+      1 Eukaryota
+      1 Euteleostomi
+      1 Fungi
+      1 Hexacorallia
+      1 Hydra vulgaris
+      1 Lensia
+      1 Oryzias melastigma
+      1 Pomacea canaliculata
+      1 root
+      1 Saccoglossus kowalevskii
+      1 Stylophora pistillata
+      1 Trachymyrmex zeteki

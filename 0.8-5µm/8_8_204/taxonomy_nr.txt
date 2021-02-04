@@ -1,0 +1,12 @@
+    650 Alteromonas
+    136 unclassified Alteromonas
+     95 
+      8 Alteromonas macleodii
+      7 Alteromonadaceae
+      5 Gammaproteobacteria
+      3 Alteromonadales
+      1 Alteromonas mediterranea
+      1 Alteromonas sp. KUL17
+      1 Alteromonas sp. W12
+      1 Chromatiaceae
+      1 Pseudomonas

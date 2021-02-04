@@ -1,0 +1,16 @@
+    700 Phaeocystis_antarctica
+    460 Phaeocystis
+    321 
+      6 uncultured_eukaryote
+      4 Emiliania_huxleyi
+      2 Imantonia
+      2 Prymnesium_polylepis
+      1 Alexandrium_tamarense
+      1 Coccolithus_braarudii
+      1 Fragilariopsis_kerguelensis
+      1 Isochrysis
+      1 Isochrysis_galbana
+      1 Pelagodinium_beii
+      1 Phaeomonas_parva
+      1 Scrippsiella_trochoidea
+      1 Scyphosphaera_apsteinii

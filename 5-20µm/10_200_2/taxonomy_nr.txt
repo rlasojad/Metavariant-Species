@@ -1,0 +1,24 @@
+   1108 
+      7 Bilateria
+      2 cellular organisms
+      2 Ditrysia
+      2 Eukaryota
+      2 Eurytemora affinis
+      2 Neocopepoda
+      2 Pentapetalae
+      1 Attini
+      1 Crassostrea virginica
+      1 Ecdysozoa
+      1 Eumetazoa
+      1 Euteleostomi
+      1 Exaiptasia pallida
+      1 Gammaproteobacteria
+      1 Hexapoda
+      1 Holometabola
+      1 Neoptera
+      1 Pancrustacea
+      1 Photobacterium
+      1 Polyphaga
+      1 Protostomia
+      1 Pteriomorphia
+      1 Schistocephalus solidus

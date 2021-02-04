@@ -1,0 +1,17 @@
+    995 
+      4 Bilateria
+      4 Insecta
+      2 Cnidaria
+      2 Hydrozoa
+      2 NULL
+      1 cellular_organisms
+      1 Deuterostomia
+      1 Echinoidea
+      1 Eukaryota
+      1 Euteleostomi
+      1 Gnathostomata
+      1 Hirudinida
+      1 Metazoa
+      1 Protostomia
+      1 Rhabditida
+      1 Tetrapoda

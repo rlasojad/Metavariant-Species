@@ -1,0 +1,12 @@
+   1257 
+      3 Asterionellopsis_glacialis
+      2 Chaetoceros_sp.
+      2 Thalassiosira_minuscula
+      1 Alexandrium_tamarense
+      1 Chattonella_subsalsa
+      1 Haptolina_brevifila
+      1 Haptolina_ericina
+      1 Leptocylindrus_danicus
+      1 Nephroselmis_pyriformis
+      1 Pseudokeronopsis
+      1 Rosalina

@@ -1,0 +1,30 @@
+    879 
+      7 Pancrustacea
+      4 Eurytemora affinis
+      3 Neocopepoda
+      2 Arthropoda
+      2 Astrocoeniina
+      2 Calanidae
+      2 Calanoida
+      1 Anthozoa
+      1 Apocrita
+      1 bacterium TMED88
+      1 Bilateria
+      1 Calanus
+      1 Calanus hyperboreus
+      1 Eumetazoa
+      1 Gammaproteobacteria
+      1 Hemiptera
+      1 Hexanauplia
+      1 Holometabola
+      1 Neoptera
+      1 Paracalanidae
+      1 Penaeus vannamei
+      1 Pentatomomorpha
+      1 Percomorphaceae
+      1 Pontibacter roseus
+      1 Protostomia
+      1 PVC group
+      1 Sarcopterygii
+      1 Stylophora pistillata
+      1 Vibrionaceae

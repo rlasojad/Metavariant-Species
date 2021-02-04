@@ -1,0 +1,23 @@
+    963 
+      5 Bilateria
+      4 Cyclopoida
+      3 Eukaryota
+      3 Eumetazoa
+      3 Euteleostomi
+      3 Maxillopoda
+      2 Branchiopoda
+      2 Deuterostomia
+      2 Neocopepoda
+      1 Amniota
+      1 cellular_organisms
+      1 Demospongiae
+      1 Echinoidea
+      1 Insecta
+      1 Neoptera
+      1 NULL
+      1 Oithona
+      1 Oithonidae
+      1 Opisthokonta
+      1 Protostomia
+      1 root
+      1 Sarcopterygii

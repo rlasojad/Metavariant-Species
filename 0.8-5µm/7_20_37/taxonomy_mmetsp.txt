@@ -1,0 +1,17 @@
+   1002 
+     10 Goniomonas_pacifica
+      3 Symbiodinium_sp.
+      2 Eutreptiella_gymnastica
+      2 Pinguiococcus_pyrenoidosus
+      2 uncultured_eukaryote
+      1 Amphora_coffeiformis
+      1 Chlamydomonas
+      1 Chrysoreinhardia
+      1 Florenciella
+      1 Odontella_aurita
+      1 Peridinium_aciculiferum
+      1 Prorocentrum_minimum
+      1 Scrippsiella_hangoei
+      1 Skeletonema_japonicum
+      1 Tetraselmis_striata
+      1 Vitrella_brassicaformis

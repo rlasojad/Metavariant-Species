@@ -1,0 +1,17 @@
+    408 Pelagibacteraceae
+    377 Candidatus Pelagibacter
+    145 Pelagibacterales
+    114 
+    105 unclassified Candidatus Pelagibacter
+     24 Proteobacteria
+     13 Candidatus Pelagibacter ubique
+      9 Alphaproteobacteria
+      8 root
+      4 Bacteria
+      3 unclassified Pelagibacteraceae
+      1 Alphaproteobacteria bacterium TMED199
+      1 Candidatus Pelagibacter sp. FZCC0015
+      1 Candidatus Pelagibacter sp. HIMB1321
+      1 cellular organisms
+      1 Rhodobacteraceae
+      1 Wolbachia

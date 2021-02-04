@@ -1,0 +1,19 @@
+   1111 
+      3 cellular organisms
+      2 Bilateria
+      1 Acropora digitifera
+      1 Aedes albopictus
+      1 Bathymodiolus platifrons methanotrophic gill symbiont
+      1 Crustacea
+      1 Dendronephthya gigantea
+      1 Enterospora canceri
+      1 Erpetoichthys calabaricus
+      1 Hyalella azteca
+      1 Monopterus albus
+      1 Nanorana parkeri
+      1 Nasonia vitripennis
+      1 Neognathae
+      1 Octopus
+      1 Opisthokonta
+      1 Pancrustacea
+      1 Protostomia

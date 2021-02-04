@@ -1,0 +1,12 @@
+    949 unclassified Synechococcus
+    104 
+     37 Synechococcales
+     17 Synechococcaceae
+     10 Synechococcus
+      8 Synechococcus sp. BL107
+      5 Prochlorococcus
+      5 Synechococcus sp. CC9902
+      4 Cyanobacteria
+      1 Bacteria
+      1 root
+      1 Synechococcus sp. MED-G69

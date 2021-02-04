@@ -1,0 +1,28 @@
+   1072 |   1028 |   1099 
+      4 Neoptera|     11 Bilateria|      2 uncultured_eukaryote
+      3 Arthropoda|     11 Insecta|      1 Isochrysis_galbana
+      2 Calanoida|      6 Maxillopoda|      1 Thoracosphaera_heimii
+      2 Poecilostomatoida|      6 Oithonidae|
+      1 Agaricomycetidae|      5 Euteleostomi|
+      1 Bilateria|      5 Hydrozoa|
+      1 cellular organisms|      4 NULL|
+      1 Cucujiformia|      2 Calanoida|
+      1 Eukaryota|      2 Cyclopoida|
+      1 Eumetazoa|      2 Eukaryota|
+      1 Helobdella robusta|      2 Eumetazoa|
+      1 Holometabola|      2 Metazoa|
+      1 Metacrangonyx|      2 Neocopepoda|
+      1 Neobatrachia|      2 Protostomia|
+      1 Obtectomera|      1 Anostraca|
+      1 Panarthropoda|      1 Arthropoda|
+      1 Pancrustacea|      1 Bacillariophyceae|
+      1 Phyllodocida|      1 Calanidae|
+      1 Poaceae|      1 Demospongiae|
+      1 Podoplea|      1 Mamiellophyceae|
+      1 Poeciliinae|      1 Neoptera|
+      1 Protostomia|      1 Opisthokonta|
+      1 Rickettsiales bacterium|      1 Pancrustacea|
+      1 Tenebrionoidea|      1 Podoplea|
+ |      1 root|
+ |      1 Schizosaccharomycetales|
+ |      1 Tetrapoda|

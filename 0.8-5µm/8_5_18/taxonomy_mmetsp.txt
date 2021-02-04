@@ -1,0 +1,9 @@
+    905 
+     30 Goniomonas_pacifica
+      2 Acanthoeca
+      2 Alexandrium_catenella
+      2 Thraustochytrium_sp.
+      2 uncultured_eukaryote
+      1 Dunaliella_tertiolecta
+      1 Paramoeba_aestuarina
+      1 Tiarina_fusa

@@ -1,0 +1,47 @@
+    588 
+     42 Pancrustacea
+     40 Tigriopus californicus
+     27 Bilateria
+     24 Arthropoda
+     24 Neoptera
+     18 Holometabola
+     13 Neocopepoda
+      8 Euteleostomi
+      7 Protostomia
+      5 Ecdysozoa
+      5 Eurytemora affinis
+      4 Hexapoda
+      4 Opisthokonta
+      3 Crustacea
+      3 Multicrustacea
+      3 Paracyclopina nana
+      2 Chelicerata
+      2 Neognathae
+      2 Obtectomera
+      2 Paraneoptera
+      2 Polyphaga
+      1 Aculeata
+      1 Amniota
+      1 Aphidinae
+      1 Bovidae
+      1 cellular organisms
+      1 Chordata
+      1 Chromadorea
+      1 Daphniidae
+      1 Diptera
+      1 Ditrysia
+      1 Eumalacostraca
+      1 Eumetazoa
+      1 Formicidae
+      1 Frankliniella occidentalis
+      1 Hemiptera
+      1 Hymenoptera
+      1 Osteoglossocephalai
+      1 Pediculus humanus corporis
+      1 Podoplea
+      1 Schizophora
+      1 Siluroidei
+      1 Sophophora
+      1 Tephritidae
+      1 Tribolium castaneum
+      1 unclassified Chloroflexi (miscellaneous)

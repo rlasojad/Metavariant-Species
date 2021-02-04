@@ -1,0 +1,18 @@
+   1193 
+     14 Maxillopoda
+      7 Bilateria
+      4 Calanoida
+      3 Calanidae
+      3 Eukaryota
+      3 NULL
+      1 Arthropoda
+      1 Calanus
+      1 cellular_organisms
+      1 Cyclopoida
+      1 Deuterostomia
+      1 Echinoidea
+      1 Enteropneusta
+      1 Euteleostomi
+      1 Gastropoda
+      1 Mammalia
+      1 rosids

@@ -1,0 +1,13 @@
+   1016 
+     53 unclassified
+     12 alpha
+      4 Alphaproteobacteria
+      4 root
+      2 Candidatus_Pelagibacter
+      2 Proteobacteria
+      1 Bacteria
+      1 Campylobacteraceae
+      1 Gnathostomata
+      1 Pelagibacterales
+      1 Rhodobacteraceae
+      1 Thalassiosirales

@@ -1,0 +1,22 @@
+   1146 
+    381 Pelagomonas
+    104 Pelagomonas_calceolata
+     71 Pelagomonadales
+     35 Pelagophyceae
+      7 unclassified_Pelagophyceae
+      6 cellular_organisms
+      6 Eukaryota
+      4 NULL
+      4 Pelagococcus
+      3 Proteobacteria
+      2 Aureococcus
+      2 Bacillariophyta
+      2 Bolidomonas
+      2 Phaeocystis
+      1 Alphaproteobacteria
+      1 Bicosoecida
+      1 Dictyocha
+      1 Gonyaulacales
+      1 Phaeocystaceae
+      1 Phaeocystales
+      1 Stramenopiles

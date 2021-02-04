@@ -1,0 +1,70 @@
+    744 
+     83 Guillardia theta CCMP2712
+     71 Eukaryota
+      7 cellular organisms
+      5 Mesangiospermae
+      4 Bacteria
+      4 Chlorophyta
+      4 Cryptophyta
+      3 Alphaproteobacteria
+      3 Bilateria
+      3 Dikarya
+      3 Fungi
+      3 Oomycetes
+      3 Pentapetalae
+      3 Proteobacteria
+      2 Basidiomycota
+      2 Guillardia theta
+      2 Stramenopiles
+      2 Viridiplantae
+      1 Acalyptratae
+      1 Acanthamoeba castellanii str. Neff
+      1 Agaricomycetes incertae sedis
+      1 Alveolata
+      1 Aphanomyces astaci
+      1 Arthropoda
+      1 Ascomycota
+      1 Azospirillum sp. TSH100
+      1 Betaproteobacteria
+      1 Burkholderiales
+      1 Chytridiomycota
+      1 Clupeocephala
+      1 Corallococcus
+      1 Cyanidioschyzon merolae strain 10D
+      1 Cyanobacteria
+      1 Dothideomycetes
+      1 Ecdysozoa
+      1 Embryophyta
+      1 Emiliania huxleyi CCMP1516
+      1 Enterococcus
+      1 Flavobacteriaceae
+      1 Fungi incertae sedis
+      1 Geminigeraceae
+      1 Holometabola
+      1 Hondaea fermentalgiana
+      1 Intramacronucleata
+      1 Lottia gigantea
+      1 Marinomonas
+      1 Metazoa
+      1 Micrococcaceae
+      1 Mucorales
+      1 Neoptera
+      1 Nostocaceae
+      1 Opisthokonta
+      1 Phytophthora
+      1 Plasmodium
+      1 Pyrenomonadales
+      1 Rhodomonas salina
+      1 Rhodospirillaceae
+      1 root
+      1 rosids
+      1 saccharomyceta
+      1 Saprolegniaceae
+      1 Schizosaccharomyces
+      1 sordariomyceta
+      1 Spizellomycetales
+      1 Teleaulax amphioxeia
+      1 Terrabacteria group
+      1 Thalassiosira
+      1 Toxicofera
+      1 Toxoplasma gondii

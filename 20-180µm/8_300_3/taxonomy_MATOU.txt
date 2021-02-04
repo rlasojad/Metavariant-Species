@@ -1,0 +1,23 @@
+    846 
+    178 Oithona
+     77 Oithonidae
+     56 Oithona_nana
+     14 Cyclopoida
+     10 Maxillopoda
+      8 Insecta
+      6 Bilateria
+      6 Neocopepoda
+      4 Eukaryota
+      4 Pancrustacea
+      3 Endopterygota
+      3 Neoptera
+      2 Arthropoda
+      2 Calanidae
+      2 Deuterostomia
+      2 Euteleostomi
+      2 Podoplea
+      1 Apidae
+      1 Ascomycota
+      1 Calanus
+      1 Ecdysozoa
+      1 Linotaeniidae

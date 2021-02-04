@@ -1,0 +1,11 @@
+    927 
+      3 Bilateria
+      3 Eumetazoa
+      2 Penaeus vannamei
+      1 cellular organisms
+      1 Crassostrea gigas
+      1 Crassostrea virginica
+      1 Euteleosteomorpha
+      1 Lophotrochozoa
+      1 Protostomia
+      1 Saccoglossus kowalevskii

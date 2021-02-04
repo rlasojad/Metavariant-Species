@@ -1,0 +1,14 @@
+    696 
+    197 Prochlorococcus_marinus
+     93 Prochlorococcus
+     18 Prochlorococcaceae
+     14 Cyanobacteria
+      2 cellular_organisms
+      1 Bacteria
+      1 Chroococcales
+      1 Dolichomastix
+      1 Goniomonadaceae
+      1 Prochlorales
+      1 root
+      1 Synechococcus
+      1 Trichodesmium

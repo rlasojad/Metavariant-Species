@@ -1,0 +1,11 @@
+    844 
+    100 Alteromonas
+     32 Alteromonas_macleodii
+     11 Alteromonadaceae
+      5 cellular_organisms
+      4 Alteromonadales
+      2 Eukaryota
+      2 Phaeodarea
+      1 Gammaproteobacteria
+      1 Pseudo-nitzschia_fraudulenta
+      1 root

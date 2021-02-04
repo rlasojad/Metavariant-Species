@@ -1,0 +1,11 @@
+    925 
+      1 Attheya_septentrionalis
+      1 Aureoumbra_lagunensis
+      1 Bolidomonas
+      1 Calcidiscus_leptoporus
+      1 Crypthecodinium_cohnii
+      1 Licmophora_paradoxa
+      1 Odontella_aurita
+      1 Rhizochromulina_marina
+      1 Thalassiosira_weissflogii
+      1 uncultured_eukaryote

@@ -1,0 +1,46 @@
+    458 unclassified Gammaproteobacteria
+    197 Gammaproteobacteria
+    151 
+     95 unclassified Gammaproteobacteria (miscellaneous)
+     47 Proteobacteria
+     40 Bacteria
+     39 Gammaproteobacteria bacterium TMED163
+     35 Gammaproteobacteria bacterium TMED260
+     19 OM182 bacterium
+     10 root
+      9 Alphaproteobacteria
+      9 OM182 clade
+      5 SAR116 cluster
+      3 Flavobacteriaceae
+      3 Gammaproteobacteria bacterium TMED107
+      2 Alteromonadales
+      2 Cellvibrionales
+      2 Pseudomonas
+      2 Rhodobacteraceae
+      2 SAR86 cluster bacterium
+      1 Achromobacter
+      1 Alteromonadaceae
+      1 Azospirillum
+      1 Bacillaceae
+      1 Bradyrhizobium
+      1 Burkholderiales
+      1 Candidatus Puniceispirillum marinum IMCC1322
+      1 Cyanobacteria
+      1 Gammaproteobacteria bacterium
+      1 Gammaproteobacteria bacterium LSUCC0057
+      1 Halomonas
+      1 Hymenobacter
+      1 Legionella
+      1 Oceanospirillales
+      1 Planctomycetaceae bacterium TMED241
+      1 Pseudomonas aeruginosa
+      1 Rhizobiales
+      1 Rhizobium/Agrobacterium group
+      1 Rhodospirillales bacterium CG15_BIG_FIL_POST_REV_8_21_14_020_66_15
+      1 Salinivibrio
+      1 Sphingobacteriaceae
+      1 Sphingomonadales
+      1 unclassified Pseudomonas
+      1 unclassified SAR116 cluster
+      1 uncultured gamma proteobacterium HF0010_05D02
+      1 Wenzhouxiangella sediminis

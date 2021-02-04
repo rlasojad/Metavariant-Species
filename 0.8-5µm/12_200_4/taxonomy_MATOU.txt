@@ -1,0 +1,25 @@
+    900 
+     42 Alphaproteobacteria
+     14 Proteobacteria
+     10 root
+      6 Bacteria
+      6 NULL
+      4 cellular_organisms
+      4 Pelagibacterales
+      3 Rhizobiales
+      2 Candidatus_Pelagibacter
+      2 Candidatus_Puniceispirillum
+      2 Eukaryota
+      2 Gammaproteobacteria
+      2 Rhodobacteraceae
+      2 SAR116_cluster
+      2 unclassified
+      2 unclassified_Alphaproteobacteria
+      1 alpha
+      1 Capitellida
+      1 Deltaproteobacteria
+      1 Eutreptiales
+      1 Rhodospirillales
+      1 Rotaliida
+      1 Thalassiosirales
+      1 Tunicata

@@ -1,0 +1,13 @@
+   1104 
+     25 Maxillopoda
+     16 Calanoida
+      5 Calanidae
+      3 Bilateria
+      3 Eumetazoa
+      2 Calanus
+      2 NULL
+      1 Chilopoda
+      1 Echinoidea
+      1 Hydrozoa
+      1 Insecta
+      1 root

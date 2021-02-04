@@ -1,0 +1,17 @@
+   1229 
+     12 Calanidae
+      9 Calanus
+      6 Maxillopoda
+      5 Calanoida
+      2 Bilateria
+      2 Coccidia
+      2 Eumetazoa
+      1 Anthozoa
+      1 Branchiostomidae
+      1 Deuterostomia
+      1 Gastropoda
+      1 Haptophyceae
+      1 Insecta
+      1 Mandibulata
+      1 Neocopepoda
+      1 Opisthokonta

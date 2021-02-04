@@ -1,0 +1,18 @@
+   2274 
+    156 Phaeocystis
+     82 Phaeocystaceae
+     34 Phaeocystales
+     32 Haptophyceae
+     19 Isochrysidales
+     18 Phaeocystis_antarctica
+     13 Eukaryota
+     13 Prymnesiales
+      5 NULL
+      4 Coccolithales
+      3 Dinophyceae
+      3 Prymnesiaceae
+      1 Chlorodendrophyceae
+      1 Coccosphaerales
+      1 Gymnodiniales
+      1 Insecta
+      1 Pelagophyceae

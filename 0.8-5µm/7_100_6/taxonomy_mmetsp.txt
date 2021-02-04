@@ -1,0 +1,25 @@
+    881 
+     52 Phaeocystis_antarctica
+     10 Chaetoceros_neogracile
+      6 Dolichomastix_tenuilepis
+      5 Schmidingerella_taraikaensis
+      4 Alexandrium_margalefii
+      2 Oxyrrhis_marina
+      2 Pseudopedinella_elastica
+      2 uncultured_eukaryote
+      1 Attheya_septentrionalis
+      1 Bigelowiella_longifila
+      1 Emiliania_huxleyi
+      1 Fragilariopsis_kerguelensis
+      1 Goniomonas_pacifica
+      1 Imantonia
+      1 Karenia_brevis
+      1 Neoceratium_fusus
+      1 Partenskyella_glossopodia
+      1 Pelagomonas_calceolata
+      1 Phaeocystis
+      1 Prasinoderma_singularis
+      1 Pteridomonas_danica
+      1 Pyramimonas_obovata
+      1 Thalassiosira_antarctica
+      1 Vitrella_brassicaformis

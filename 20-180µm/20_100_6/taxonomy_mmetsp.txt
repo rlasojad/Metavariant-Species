@@ -1,0 +1,8 @@
+    942 
+      2 Tetraselmis_striata
+      1 Chaetoceros_neogracile
+      1 Dolichomastix_tenuilepis
+      1 Ostreococcus_mediterraneus
+      1 Picochlorum_oklahomense
+      1 Tetraselmis_sp._GSL018
+      1 uncultured_eukaryote

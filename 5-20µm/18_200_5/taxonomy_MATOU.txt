@@ -1,0 +1,26 @@
+    996 
+     14 Calanoida
+     14 Maxillopoda
+      7 Bilateria
+      7 Chordata
+      6 Calanus
+      4 Ascidiacea
+      3 Calanidae
+      3 Hydrozoa
+      3 Kinetoplastida
+      2 Eumetazoa
+      1 Amniota
+      1 Anthozoa
+      1 Bacteria
+      1 Bivalvia
+      1 Deuterostomia
+      1 Echinoidea
+      1 Euteleostomi
+      1 Metazoa
+      1 Neocopepoda
+      1 Neoptera
+      1 Paramoebidae
+      1 Protostomia
+      1 Pucciniomycetes
+      1 root
+      1 Sarcopterygii

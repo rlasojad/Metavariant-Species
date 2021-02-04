@@ -1,0 +1,17 @@
+    905 
+     19 Goniomonas_pacifica
+      4 Micromonas
+      2 Heterosigma_akashiwo
+      2 Micromonas_pusilla
+      2 Nephroselmis_pyriformis
+      2 Pyramimonas_sp.
+      1 Alexandrium_andersonii
+      1 Amphidinium_massartii
+      1 Pavlova
+      1 Prasinoderma_singularis
+      1 Pseudopedinella_elastica
+      1 Rhodella_maculata
+      1 Rhodosorus_marinus
+      1 Tetraselmis_chuii
+      1 Thalassiosira_minuscula
+      1 Togula_jolla

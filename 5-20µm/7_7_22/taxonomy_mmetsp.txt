@@ -1,0 +1,12 @@
+    981 
+      2 Ochromonas
+      2 Pseudo-nitzschia_pungens
+      2 Tetraselmis_striata
+      1 Ditylum_brightwellii
+      1 Eutreptiella_gymnastica
+      1 Extubocellulus_spinifer
+      1 Haptolina_brevifila
+      1 Hemiselmis_andersenii
+      1 Heterocapsa_triquetra
+      1 Odontella_aurita
+      1 Pyramimonas_sp.

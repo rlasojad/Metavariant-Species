@@ -1,0 +1,18 @@
+   1072 
+      6 Bilateria
+      3 Eumetazoa
+      2 NULL
+      1 Amniota
+      1 Amphibia
+      1 Chromadorea
+      1 Cyclopoida
+      1 Deuterostomia
+      1 Ecdysozoa
+      1 Echinoidea
+      1 Eukaryota
+      1 Euteleostomi
+      1 Hydrozoa
+      1 Insecta
+      1 Metazoa
+      1 Pancrustacea
+      1 Peridiniales

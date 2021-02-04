@@ -1,0 +1,13 @@
+   1096 
+      5 Schizochytrium_aggregatum
+      2 Triceratium_dubium
+      1 Aurantiochytrium_limacinum
+      1 Chroomonas_cf._mesostigmatica
+      1 Florenciella_parvula
+      1 Fragilariopsis_kerguelensis
+      1 Goniomonas
+      1 Lotharella_globosa
+      1 Pleurochrysis_carterae
+      1 Rhodomonas_lens
+      1 uncultured_eukaryote
+      1 Vexillifera

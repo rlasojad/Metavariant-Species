@@ -1,0 +1,14 @@
+    605 Prochlorococcus
+    137 Prochlorococcus marinus
+    137 Synechococcales
+     58 
+     11 unclassified Prochlorococcus
+      9 Cyanobacteria
+      8 unclassified Synechococcus
+      7 Bacteria
+      3 Prochlorococcus marinus str. PAC1
+      3 root
+      2 Synechococcaceae
+      1 Prochlorococcus sp. MIT 0801
+      1 Synechococcus
+      1 Terrabacteria group

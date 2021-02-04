@@ -1,0 +1,43 @@
+   1002 
+     36 Eurytemora affinis
+     34 Pancrustacea
+     16 Arthropoda
+     16 Neoptera
+     14 Bilateria
+     14 Neocopepoda
+      9 Protostomia
+      6 Multicrustacea
+      5 Holometabola
+      3 Crustacea
+      3 Deuterostomia
+      3 Hexapoda
+      2 Amniota
+      2 cellular organisms
+      2 Drosophila
+      2 Ecdysozoa
+      2 Euteleostomi
+      2 root
+      2 Tigriopus californicus
+      1 Actinopteri
+      1 Aphidini
+      1 Apocrita
+      1 Arachnida
+      1 Calanoida
+      1 Calyptratae
+      1 Chelicerata
+      1 Ciona intestinalis
+      1 Clupeocephala
+      1 Dacini
+      1 Ditrysia
+      1 Eukaryota
+      1 Eumetazoa
+      1 Eurotiomycetes
+      1 Formicidae
+      1 Hemiptera
+      1 Hymenoptera
+      1 Metazoa
+      1 Obtectomera
+      1 Ornithorhynchus anatinus
+      1 Plasmodium
+      1 Rhodobacteraceae
+      1 Tephritidae

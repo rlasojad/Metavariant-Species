@@ -1,0 +1,36 @@
+    930 
+     44 Eukaryota
+     41 Oxytrichidae
+     26 Sporadotrichida
+     23 Intramacronucleata
+     11 Alveolata
+      9 Stylonychia lemnae
+      8 Halteria grandinella
+      8 Oxytricha trifallax
+      6 Spirotrichea
+      4 Fungi
+      4 Opisthokonta
+      3 Ciliophora
+      3 Oomycetes
+      2 Bilateria
+      2 Dikarya
+      2 Viridiplantae
+      1 Apicomplexa
+      1 Bacteria
+      1 Brassicaceae
+      1 cellular organisms
+      1 Dictyostelids
+      1 Eumetazoa
+      1 Fungi incertae sedis
+      1 Mesangiospermae
+      1 Orchidaceae
+      1 Salmoninae
+      1 Sphingomonadaceae
+      1 Stentor coeruleus
+      1 Stramenopiles
+      1 Streptophytina
+      1 Strongylida
+      1 Stylonychinae
+      1 Tetrahymena thermophila SB210
+      1 Thraustotheca clavata
+      1 Toxoplasma gondii

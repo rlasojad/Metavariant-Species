@@ -1,0 +1,12 @@
+   1053 
+     15 Maxillopoda
+      6 Calanidae
+      6 Calanus
+      4 Calanoida
+      3 Mammalia
+      2 Bilateria
+      2 Echinoidea
+      1 Aves
+      1 cellular_organisms
+      1 Ecdysozoa
+      1 NULL

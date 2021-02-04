@@ -1,0 +1,71 @@
+   1130 
+     30 Pancrustacea
+     24 Tigriopus californicus
+     21 Bilateria
+     19 Neocopepoda
+     16 Protostomia
+     13 Neoptera
+     11 Arthropoda
+      9 Holometabola
+      7 Crustacea
+      5 Eumetazoa
+      4 Ecdysozoa
+      4 Eurytemora affinis
+      4 Percomorphaceae
+      3 Aphidinae
+      3 Euteleostomi
+      3 Multicrustacea
+      3 Opisthokonta
+      3 Podoplea
+      2 cellular organisms
+      2 Diptera
+      2 Ditrysia
+      2 Formicidae
+      2 Hexapoda
+      2 Obtectomera
+      2 Paracyclopina nana
+      2 Polyphaga
+      2 Terrabacteria group
+      2 Tigriopus
+      1 Acalyptratae
+      1 Aculeata
+      1 Amniota
+      1 Apis
+      1 Apoidea
+      1 Arachnida
+      1 Astrocoeniina
+      1 Aves
+      1 Bacteria
+      1 Bovidae
+      1 Caligus clemensi
+      1 Chelicerata
+      1 Chordata
+      1 Crassostrea gigas
+      1 Culicidae
+      1 Dacinae
+      1 Euacanthomorphacea
+      1 Eukaryota
+      1 Euteleosteomorpha
+      1 gambiae species complex
+      1 Harpegnathos saltator
+      1 Lophotrochozoa
+      1 Mandibulata
+      1 melanogaster group
+      1 Muroidea
+      1 Nilaparvata lugens
+      1 Onthophagus taurus
+      1 Oryctes borbonicus
+      1 Panarthropoda
+      1 Paraneoptera
+      1 Parasitiformes
+      1 Planctomycetes
+      1 Sauria
+      1 Scleractinia
+      1 Sophophora
+      1 Sternorrhyncha
+      1 Tephritidae
+      1 Termitoidae
+      1 Tetrapoda
+      1 Trichinella
+      1 unclassified Betaproteobacteria (miscellaneous)
+      1 Wallemia

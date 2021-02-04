@@ -1,0 +1,26 @@
+    994 
+     70 Schmidingerella_taraikaensis
+     37 Favella_ehrenbergii
+     15 Strombidinopsis_acuminata
+      5 Strombidium_rassoulzadegani
+      3 Strombidium_inclinatum
+      2 Strombidinopsis
+      1 Bigelowiella_longifila
+      1 Blepharisma_japonicum
+      1 Climacostomum_virens
+      1 Euplotes_focardii
+      1 Euplotes_harpa
+      1 Geminigera_cryophila
+      1 Goniomonas
+      1 Lingulodinium_polyedrum
+      1 Madagascaria_erythrocladioides
+      1 Mesodinium_pulex
+      1 Nephroselmis_pyriformis
+      1 Oxyrrhis_marina
+      1 Perkinsus_marinus
+      1 Pseudokeronopsis
+      1 Rhodomonas_lens
+      1 Rhodosorus_marinus
+      1 Schizochytrium_aggregatum
+      1 Tetraselmis_striata
+      1 Vannella

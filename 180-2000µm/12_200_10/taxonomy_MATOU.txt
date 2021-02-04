@@ -1,0 +1,20 @@
+   1062 
+      7 Bilateria
+      7 Maxillopoda
+      5 Calanoida
+      2 Eukaryota
+      2 Insecta
+      2 NULL
+      1 Actinopteri
+      1 Arachnida
+      1 Aves
+      1 Chordata
+      1 Chromadorea
+      1 Dinophyceae
+      1 Echinoidea
+      1 Eumetazoa
+      1 Euteleostomi
+      1 Gymnoplea
+      1 Hydrozoa
+      1 Neocopepoda
+      1 prasinophytes

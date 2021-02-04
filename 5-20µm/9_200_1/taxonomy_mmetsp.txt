@@ -1,0 +1,3 @@
+   1000 
+      1 Asterionellopsis_glacialis
+      1 Leptocylindrus_danicus

@@ -1,0 +1,24 @@
+    770 unclassified Synechococcus
+    121 
+     26 Synechococcus
+     22 Synechococcales
+     18 Synechococcus sp. MED-G133
+     15 Cyanobacteria
+     14 Synechococcaceae
+      7 Bacteria
+      7 Synechococcus sp. WH 8103
+      5 Alphaproteobacteria
+      5 Synechococcus sp. YX04-3
+      4 environmental samples
+      4 Synechococcus sp. WH 8102
+      2 Alphaproteobacteria bacterium
+      2 Cyanobacteria bacterium TMED177
+      2 Prochlorococcus
+      1 cellular organisms
+      1 Eukaryota
+      1 Rhodobacteraceae
+      1 Rhodobacterales
+      1 root
+      1 SAR116 cluster
+      1 Synechococcus sp. MIT S9508
+      1 Synechococcus sp. WH 7803

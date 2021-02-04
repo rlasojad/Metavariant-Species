@@ -1,0 +1,11 @@
+   1115 Pelagomonas_calceolata
+    388 
+      4 Pelagococcus_subviridis
+      4 Phaeocystis_antarctica
+      2 Aureococcus_anophagefferens
+      2 Phaeocystis
+      1 Chrysoreinhardia
+      1 Haptolina_ericina
+      1 Heterocapsa_triquetra
+      1 Phaeomonas_parva
+      1 uncultured_eukaryote

@@ -1,0 +1,22 @@
+   1177 
+     15 Goniomonas_pacifica
+      3 uncultured_eukaryote
+      2 Minutocellus_polymorphus
+      1 Chaetoceros_curvisetus
+      1 Crustomastix_stigmatica
+      1 Cryptomonas_paramecium
+      1 Dinophysis_acuminata
+      1 Dolichomastix_tenuilepis
+      1 Extubocellulus_spinifer
+      1 Fibrocapsa_japonica
+      1 Lotharella_oceanica
+      1 Micromonas_pusilla
+      1 Paraphysomonas_imperforata
+      1 Pelagococcus_subviridis
+      1 Peridinium_aciculiferum
+      1 Polarella_glacialis
+      1 Pyrodinium_bahamense
+      1 Rhodella_maculata
+      1 Scrippsiella_hangoei
+      1 Stygamoeba_regulata
+      1 Tetraselmis_sp._GSL018

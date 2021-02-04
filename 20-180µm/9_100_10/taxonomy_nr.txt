@@ -1,0 +1,51 @@
+   1749 
+     60 Eurytemora affinis
+     36 Pancrustacea
+     17 Bilateria
+     17 Neoptera
+     14 Neocopepoda
+     10 Arthropoda
+     10 Protostomia
+      9 Holometabola
+      5 Eumetazoa
+      5 Tigriopus californicus
+      4 Euteleostomi
+      3 Aphidinae
+      3 Ecdysozoa
+      3 Multicrustacea
+      2 Aculeata
+      2 Amniota
+      2 Bacteria
+      2 Hexapoda
+      2 Opisthokonta
+      2 Polyphaga
+      2 Schizophora
+      2 Trichinella
+      1 Aphididae
+      1 Apidae
+      1 Calanoida
+      1 Ciona intestinalis
+      1 Crustacea
+      1 Culicomorpha
+      1 Deuterostomia
+      1 Drosophila
+      1 Eukaryota
+      1 Formicidae
+      1 Halieaceae
+      1 Hemiptera
+      1 Hymenoptera
+      1 Hypocreomycetidae
+      1 Lophotrochozoa
+      1 Neodiprion lecontei
+      1 Obtectomera
+      1 Panarthropoda
+      1 Paraneoptera
+      1 Pentapetalae
+      1 Planctomycetaceae
+      1 Planctomycetes
+      1 Pleuronectoidei
+      1 Protacanthopterygii
+      1 Serpentes
+      1 Simiiformes
+      1 Sternorrhyncha
+      1 Tetrapoda

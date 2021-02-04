@@ -1,0 +1,15 @@
+   1416 
+      4 root
+      3 Florenciella
+      3 Gammaproteobacteria
+      3 Phaeocystaceae
+      3 Phaeocystis
+      3 Proteobacteria
+      2 cellular_organisms
+      2 Prymnesiales
+      1 Alteromonadaceae
+      1 Betaproteobacteria
+      1 Dictyochophyceae
+      1 Dinophyceae
+      1 Haptophyceae
+      1 Ponticaulis_koreensis

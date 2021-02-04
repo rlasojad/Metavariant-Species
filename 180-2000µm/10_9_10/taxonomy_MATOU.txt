@@ -1,0 +1,16 @@
+   1002 
+      6 Bilateria
+      4 Eukaryota
+      2 Amniota
+      1 Anthozoa
+      1 Choanoflagellida
+      1 Euteleostomi
+      1 Insecta
+      1 Maxillopoda
+      1 Metazoa
+      1 Neocopepoda
+      1 NULL
+      1 Oikopleuridae
+      1 Phaeodarea
+      1 Rhizochromulina
+      1 Stramenopiles

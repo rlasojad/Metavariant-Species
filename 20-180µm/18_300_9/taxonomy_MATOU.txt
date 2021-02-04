@@ -1,0 +1,22 @@
+   1727 
+      7 Bilateria
+      5 Maxillopoda
+      4 Eukaryota
+      4 Insecta
+      4 Oithonidae
+      2 Cyclopoida
+      2 Deuterostomia
+      2 NULL
+      2 Oithona
+      1 Apocrita
+      1 Arachnida
+      1 Bivalvia
+      1 Calanidae
+      1 Echinoidea
+      1 Enoplea
+      1 Eumetazoa
+      1 Fungi
+      1 Hydrozoa
+      1 Neoptera
+      1 Protostomia
+      1 root

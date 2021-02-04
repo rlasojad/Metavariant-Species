@@ -1,0 +1,16 @@
+   1058 
+     10 Echinoidea
+      6 Eumetazoa
+      3 Bilateria
+      3 Deuterostomia
+      3 Strongylocentrotidae
+      3 Tetrapoda
+      1 Branchiostomidae
+      1 Chordata
+      1 Dinophyceae
+      1 Enteropneusta
+      1 Lottiidae
+      1 Mammalia
+      1 Neoptera
+      1 NULL
+      1 Rhizaria

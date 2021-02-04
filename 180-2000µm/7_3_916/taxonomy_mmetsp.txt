@@ -1,0 +1,16 @@
+   1018 
+      2 Fragilariopsis_kerguelensis
+      2 Kryptoperidinium_foliaceum
+      2 Phaeomonas_parva
+      2 Picochlorum
+      1 Amphiprora
+      1 Crypthecodinium_cohnii
+      1 Eutreptiella_gymnastica
+      1 Gambierdiscus_australes
+      1 Phaeocystis_antarctica
+      1 Prorocentrum_minimum
+      1 Pterosperma
+      1 Rhodomonas_lens
+      1 Scrippsiella_hangoei
+      1 Scrippsiella_trochoidea
+      1 uncultured_eukaryote

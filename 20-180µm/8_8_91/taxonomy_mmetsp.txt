@@ -1,0 +1,16 @@
+   1179 
+      3 Fragilariopsis_kerguelensis
+      2 Polarella_glacialis
+      2 uncultured_eukaryote
+      1 Alexandrium_tamarense
+      1 Ammonia_sp.
+      1 Aristerostoma
+      1 Gloeochaete_wittrockiana
+      1 Heterosigma_akashiwo
+      1 Kryptoperidinium_foliaceum
+      1 Licmophora_paradoxa
+      1 Lingulodinium_polyedrum
+      1 Madagascaria_erythrocladioides
+      1 Phaeomonas_parva
+      1 Pinguiococcus_pyrenoidosus
+      1 Symbiodinium_sp.

@@ -1,0 +1,11 @@
+    985 
+      3 uncultured_eukaryote
+      1 Acanthoeca
+      1 Aureococcus_anophagefferens
+      1 Filamoeba_nolandi
+      1 Goniomonas
+      1 Heterosigma_akashiwo
+      1 Micromonas_pusilla
+      1 Pleurochrysis_carterae
+      1 Rhodosorus_marinus
+      1 Thalassiosira_weissflogii

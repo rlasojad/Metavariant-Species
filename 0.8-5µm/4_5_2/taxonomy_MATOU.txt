@@ -1,0 +1,20 @@
+   1020 
+      5 Gammaproteobacteria
+      5 unclassified_Gammaproteobacteria
+      3 Flavobacteriaceae
+      2 Alteromonadaceae
+      2 root
+      1 Agaricomycotina
+      1 Alphaproteobacteria
+      1 Bacteria
+      1 cellular_organisms
+      1 Cercozoa
+      1 Dinophyceae
+      1 Gonyaulacales
+      1 Halieaceae
+      1 Haptophyceae
+      1 NULL
+      1 Pseudopedinella_elastica
+      1 Rhodobacteraceae
+      1 Rhodobacterales
+      1 Thalassolituus

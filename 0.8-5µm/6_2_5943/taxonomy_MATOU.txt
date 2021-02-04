@@ -1,0 +1,13 @@
+    921 
+     52 unclassified
+     14 alpha
+      6 Alphaproteobacteria
+      2 unclassified_Alphaproteobacteria
+      1 Eukaryota
+      1 Micavibrio
+      1 NULL
+      1 Proteobacteria
+      1 Rhodobacteraceae
+      1 Rhodobacterales
+      1 root
+      1 Stramenopiles

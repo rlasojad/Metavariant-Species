@@ -1,0 +1,20 @@
+    801 
+     92 Cryptophyta
+     65 Pyrenomonadales
+     57 Eukaryota
+     53 Geminigeraceae
+     23 root
+     13 Geminigera
+      3 cellular_organisms
+      2 Cryptomonadales
+      2 Dinophyceae
+      2 NULL
+      1 Alveolata
+      1 Bacillariophyta
+      1 Haptophyceae
+      1 Litostomatea
+      1 Mesangiospermae
+      1 Opisthokonta
+      1 Pelagophyceae
+      1 prasinophytes
+      1 Prymnesiales

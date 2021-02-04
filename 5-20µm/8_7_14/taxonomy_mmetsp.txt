@@ -1,0 +1,26 @@
+    889 
+      5 Crypthecodinium_cohnii
+      3 uncultured_eukaryote
+      2 Alveolata
+      1 Alexandrium_margalefii
+      1 Amphiprora
+      1 Azadinium_spinosum
+      1 Bathycoccus_prasinos
+      1 Brandtodinium_nutricula
+      1 Chaetoceros_cf._neogracile
+      1 Corethron_hystrix
+      1 Emiliania_huxleyi
+      1 Florenciella_parvula
+      1 Geminigera_cryophila
+      1 Haptolina_brevifila
+      1 Isochrysis_sp.
+      1 Licmophora_paradoxa
+      1 Lotharella_oceanica
+      1 Nitzschia
+      1 Polarella_glacialis
+      1 Stephanopyxis_turris
+      1 Stygamoeba_regulata
+      1 Symbiodinium_sp.
+      1 Tetraselmis_striata
+      1 Thraustochytrium_sp.
+      1 Tiarina_fusa

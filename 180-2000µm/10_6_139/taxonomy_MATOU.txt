@@ -1,0 +1,18 @@
+    969 
+     13 Maxillopoda
+      6 Bilateria
+      5 Calanoida
+      4 NULL
+      3 Calanidae
+      3 Calanus
+      2 Ecdysozoa
+      2 Eukaryota
+      2 Insecta
+      2 Neocopepoda
+      1 Ascidiacea
+      1 Bacillariophyta
+      1 Branchiostomidae
+      1 Echinoidea
+      1 Eumetazoa
+      1 Opisthokonta
+      1 Pancrustacea

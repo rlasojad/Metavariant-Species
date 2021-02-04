@@ -1,0 +1,12 @@
+    795 unclassified Synechococcus
+     85 
+     31 Synechococcales
+     10 Synechococcaceae
+      9 Synechococcus
+      5 Prochlorococcus
+      4 Synechococcus sp. BL107
+      2 Bacteria
+      2 Synechococcus sp. CC9902
+      1 Cyanobacteria
+      1 Synechococcus sp. MED-G69
+      1 Terrabacteria group

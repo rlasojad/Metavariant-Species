@@ -1,0 +1,7 @@
+    917 
+      1 Chroomonas_cf._mesostigmatica
+      1 Compsopogon_caeruleus
+      1 Ditylum_brightwellii
+      1 Pseudopedinella_elastica
+      1 Scrippsiella_hangoei
+      1 uncultured_eukaryote

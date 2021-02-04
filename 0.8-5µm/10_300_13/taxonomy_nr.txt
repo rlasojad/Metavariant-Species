@@ -1,0 +1,19 @@
+   1440 
+     33 Aureococcus anophagefferens
+     14 Eukaryota
+     12 Stramenopiles
+      4 cellular organisms
+      2 Bacillariophyta
+      2 Chrysochromulina sp. CCMP291
+      2 Emiliania huxleyi CCMP1516
+      1 Bacteria
+      1 Bilateria
+      1 Euglenaceae
+      1 Fragilariopsis cylindrus CCMP1102
+      1 Mollusca
+      1 Opisthokonta
+      1 Proteobacteria
+      1 Pseudomonas salegens
+      1 Saprolegniaceae
+      1 unclassified Synechococcus
+      1 Viridiplantae

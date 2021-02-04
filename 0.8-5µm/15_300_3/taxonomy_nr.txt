@@ -1,0 +1,37 @@
+    385 
+    252 root
+    170 unclassified Myoviridae
+     22 Deltaproteobacteria bacterium TMED58
+     15 Prochlorococcus phage P-HM2
+     13 Caudovirales
+     11 Synechococcus phage S-SSM7
+      9 Prochlorococcus phage P-SSM2
+      9 uncultured Mediterranean phage uvMED
+      6 Viruses
+      5 Prochlorococcus phage P-TIM68
+      4 Bacteria
+      3 Myoviridae
+      3 Myoviridae environmental samples
+      3 uncultured virus
+      2 uncultured Mediterranean phage
+      1 Bacilli
+      1 Clostridiales
+      1 Cyanobacteria
+      1 Cyanophage P-RSM1
+      1 Cyanophage S-SSM6a
+      1 Dishui lake phycodnavirus 1
+      1 environmental samples
+      1 Euryarchaeota archaeon
+      1 Flavobacteriales bacterium TMED228
+      1 Prochlorococcus phage P-HM1
+      1 Prochlorococcus phage P-RSM4
+      1 Saprospirales bacterium TMED214
+      1 Synechococcales
+      1 Synechococcus phage ACG-2014f
+      1 Synechococcus phage Bellamy
+      1 Synechococcus phage metaG-MbCM1
+      1 Synechococcus phage S-CAM8
+      1 Synechococcus phage S-CAM9
+      1 Synechococcus phage S-RIM2
+      1 Synechococcus phage S-SKS1
+      1 unclassified Autographivirinae

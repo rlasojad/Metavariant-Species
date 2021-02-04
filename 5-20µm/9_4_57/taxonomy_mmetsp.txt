@@ -1,0 +1,21 @@
+    862 
+      5 Prorocentrum_minimum
+      2 Alexandrium_margalefii
+      2 Bigelowiella_natans
+      2 Proteomonas_sulcata
+      1 Coscinodiscus_wailesii
+      1 Emiliania_huxleyi
+      1 Euplotes_focardii
+      1 Eutreptiella_gymnastica
+      1 Florenciella
+      1 Fragilariopsis_kerguelensis
+      1 Karenia_brevis
+      1 Kryptoperidinium_foliaceum
+      1 Partenskyella_glossopodia
+      1 Pseudo-nitzschia_pungens
+      1 Pseudopedinella_elastica
+      1 Pteridomonas_danica
+      1 Thalassiosira_rotula
+      1 Thraustochytrium_sp.
+      1 Tiarina_fusa
+      1 uncultured_eukaryote

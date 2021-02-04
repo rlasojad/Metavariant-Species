@@ -1,0 +1,157 @@
+   3999 
+    319 Eukaryota
+    147 Chrysochromulina sp. CCMP291
+    109 Emiliania huxleyi CCMP1516
+     93 Prymnesiophyceae
+     46 cellular organisms
+     40 Bacteria
+     33 Synechococcus sp. TMED187
+     28 Opisthokonta
+     17 Haptista
+     15 Stramenopiles
+     15 Viridiplantae
+     12 Bilateria
+     10 Aureococcus anophagefferens
+     10 Mesangiospermae
+     10 Proteobacteria
+      8 Chlorophyta
+      8 Eumetazoa
+      8 Oomycetes
+      8 Pentapetalae
+      7 Alphaproteobacteria
+      7 Fungi
+      7 Gammaproteobacteria
+      6 Cyanobacteria
+      5 Embryophyta
+      4 Actinobacteria
+      4 Bacteroidetes
+      4 Basidiomycota
+      4 Ecdysozoa
+      4 Peronosporaceae
+      4 Phytophthora
+      4 root
+      3 Bacillariophycidae
+      3 Streptophyta
+      3 Terrabacteria group
+      3 Thraustochytriaceae
+      2 Agaricomycetes
+      2 Alveolata
+      2 Arthropoda
+      2 Burkholderiaceae
+      2 Dikarya
+      2 Euteleostomi
+      2 fabids
+      2 Fungi incertae sedis
+      2 Holometabola
+      2 leotiomyceta
+      2 Magnoliopsida
+      2 Mamiellales
+      2 melanogaster group
+      2 Metazoa
+      2 Neognathae
+      2 Percomorphaceae
+      2 Protostomia
+      2 Rhizobiales
+      2 rosids
+      2 Saprolegniaceae
+      2 Sordariomycetes
+      2 Symbiodinium microadriaticum
+      2 unclassified Synechococcus
+      1 Acinetobacter
+      1 Agaricomycetidae
+      1 Agaricomycotina
+      1 Agaricus bisporus
+      1 Alphaproteobacteria bacterium SYSU XM001
+      1 Anthozoa
+      1 Apicomplexa
+      1 Aspergillaceae
+      1 Auriculariales
+      1 Bacillariaceae
+      1 Bacillariophyta
+      1 Bacteroidia
+      1 Bodo saltans
+      1 Bordetella bronchiseptica
+      1 Burkholderia sp. JS23
+      1 Capitella teleta
+      1 Caulobacteraceae
+      1 Chaetothyriales
+      1 Chlamydomonadales
+      1 Chlamydomonas reinhardtii
+      1 Chlorella sorokiniana
+      1 Chloroflexi bacterium
+      1 Chlorophyceae
+      1 Chordata
+      1 Chthoniobacter flavus
+      1 Chytridiomycota
+      1 Cicer arietinum
+      1 Cnidaria
+      1 Coccomyxa subellipsoidea C-169
+      1 commelinids
+      1 Corynebacteriales
+      1 Dictyostelids
+      1 Dothideomycetes
+      1 Ectocarpus siliculosus
+      1 Emiliania huxleyi virus PS401
+      1 Eurotiomycetes
+      1 Eutheria
+      1 Firmicutes
+      1 Formicidae
+      1 Fragilariopsis cylindrus CCMP1102
+      1 Fusarium
+      1 Gammaproteobacteria bacterium TMED1
+      1 Glomeromycetes
+      1 Glycomyces harbinensis
+      1 Gracilariopsis chorda
+      1 Guillardia theta CCMP2712
+      1 Hexacorallia
+      1 Hondaea fermentalgiana
+      1 Hymenolepididae
+      1 Intrasporangiaceae
+      1 Jatropha curcas
+      1 Lophotrochozoa
+      1 Methylosarcina lacus
+      1 Mucorales
+      1 Mucoromycotina
+      1 Myxococcales
+      1 Neoptera
+      1 Nitrosopumilaceae
+      1 Obtectomera
+      1 Orchesella cincta
+      1 Paenibacillus sp. Marseille-P3787
+      1 Palaemonidae
+      1 Pancrustacea
+      1 Panicoideae
+      1 Parcubacteria group bacterium Gr01-1014_33
+      1 Phaeophyceae
+      1 Phytophthora parasitica
+      1 Planctomycetes
+      1 Poaceae
+      1 Pocilloporidae
+      1 Polyporales
+      1 Prevotellaceae
+      1 Protacanthopterygii
+      1 Pseudocohnilembus persalinus
+      1 Pseudomonas
+      1 Pythium oligandrum
+      1 Rhodanobacteraceae
+      1 Rhodobacteraceae
+      1 Rhodospirillales
+      1 Rhodotorula
+      1 saccharomyceta
+      1 Salpingoeca rosetta
+      1 Saprolegnia diclina VS20
+      1 Sauria
+      1 Scleractinia
+      1 Selenomonadaceae
+      1 Sophophora
+      1 sordariomyceta
+      1 Spirosoma
+      1 Streptophytina
+      1 Synechococcus sp. GEYO
+      1 Tetrabaena socialis
+      1 Thalassiosira
+      1 Thalassiosira oceanica
+      1 Thalassiosira pseudonana CCMP1335
+      1 Toxoplasma gondii
+      1 unclassified Euryarchaeota (miscellaneous)
+      1 unclassified Frankia

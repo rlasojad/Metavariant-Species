@@ -1,0 +1,18 @@
+    994 
+     18 Hydrozoa
+     10 Leptothecata
+      6 Bilateria
+      6 Eumetazoa
+      3 Campanulariidae
+      3 NULL
+      2 Anthoathecata
+      2 Hydroidolina
+      2 Maxillopoda
+      1 Aplysioidea
+      1 Cnidaria
+      1 Echinoidea
+      1 Enteropneusta
+      1 Euteleostomi
+      1 Gastropoda
+      1 Insecta
+      1 Scyphozoa

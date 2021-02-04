@@ -1,0 +1,19 @@
+    973 
+      8 Bilateria
+      4 Maxillopoda
+      2 Arachnida
+      2 Calanoida
+      2 Calanus
+      2 Chordata
+      2 Deuterostomia
+      2 NULL
+      1 Amniota
+      1 Calanidae
+      1 Echinoidea
+      1 Eukaryota
+      1 Florideophyceae
+      1 Gastropoda
+      1 Kinetoplastida
+      1 Lepidosauria
+      1 Mammalia
+      1 Oithona

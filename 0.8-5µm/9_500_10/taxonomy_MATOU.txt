@@ -1,0 +1,8 @@
+    682 
+    232 Bathycoccaceae
+    113 Bathycoccus
+     59 Bathycoccus_prasinos
+     34 Mamiellales
+      6 Mamiellophyceae
+      3 Eukaryota
+      1 Daphniidae

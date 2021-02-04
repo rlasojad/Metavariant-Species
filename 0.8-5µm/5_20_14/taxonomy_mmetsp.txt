@@ -1,0 +1,18 @@
+   1129 
+      8 Thalassiosira_minuscula
+      2 Alexandrium_margalefii
+      2 Pseudo-nitzschia_fraudulenta
+      2 Pseudopedinella_elastica
+      1 Asterionellopsis_glacialis
+      1 Climacostomum_virens
+      1 Ditylum_brightwellii
+      1 Haptolina_ericina
+      1 Hemiselmis_tepida
+      1 Paraphysomonas_imperforata
+      1 Pterosperma
+      1 Rhodomonas_abbreviata
+      1 Schmidingerella_taraikaensis
+      1 Stephanopyxis_turris
+      1 Thalassiosira_antarctica
+      1 Trichosphaerium
+      1 uncultured_eukaryote

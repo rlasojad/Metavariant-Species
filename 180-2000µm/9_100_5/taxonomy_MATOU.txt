@@ -1,0 +1,12 @@
+   1006 
+      3 Bilateria
+      2 Mammalia
+      2 NULL
+      1 Actinopteri
+      1 Anthoathecata
+      1 Calanidae
+      1 Chromadorea
+      1 Eumetazoa
+      1 Hydrozoa
+      1 Insecta
+      1 Leptothecata

@@ -1,0 +1,25 @@
+   1049 
+     22 Maxillopoda
+      9 Calanoida
+      6 Bilateria
+      6 Calanidae
+      6 Calanus
+      5 Neocopepoda
+      2 Aves
+      2 Echinoidea
+      2 Eukaryota
+      2 Eumetazoa
+      2 Euteleostomi
+      2 Hydrozoa
+      2 Metazoa
+      2 NULL
+      2 Pancrustacea
+      1 Bacillales
+      1 Bivalvia
+      1 Chordata
+      1 Ecdysozoa
+      1 Insecta
+      1 Lepidoptera
+      1 Mesangiospermae
+      1 Protostomia
+      1 root

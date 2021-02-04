@@ -1,0 +1,92 @@
+    824 
+    139 Gammaproteobacteria
+     54 Proteobacteria
+     35 Alphaproteobacteria
+     29 Oceanospirillaceae
+     19 Oceanospirillales
+     18 Pseudomonas
+     17 Rhodobacteraceae
+     12 Bacteria
+     10 Halomonas
+     10 Marinomonas
+      8 Alteromonadales
+      6 Cellvibrionales
+      6 SAR92 clade
+      5 Betaproteobacteria
+      5 Marinobacter
+      5 Rhizobiales
+      4 Chrysochromulina sp. CCMP291
+      4 Gammaproteobacteria bacterium
+      4 Halomonadaceae
+      3 Burkholderiales
+      3 Osedax symbiont Rs1
+      3 Shewanella
+      3 unclassified Porticoccaceae
+      3 Vibrio
+      2 Alteromonas
+      2 Microbulbifer
+      2 Oceanospirillaceae bacterium ASP10-02a
+      2 Oxalobacteraceae
+      2 Phyllobacteriaceae
+      2 Pseudoalteromonas
+      2 Pseudomonadaceae
+      2 Serratia
+      2 Spongiibacteraceae
+      2 unclassified Gammaproteobacteria
+      2 Vibrionaceae
+      1 Acidimicrobiales bacterium
+      1 Acinetobacter
+      1 Aeromonas
+      1 Aliivibrio
+      1 Alteromonadaceae
+      1 Amphritea balenae
+      1 Aquitalea
+      1 Balneatrix alpica
+      1 Bordetella sp. H567
+      1 Candidatus Thioglobus
+      1 cellular organisms
+      1 Cellvibrionaceae
+      1 Chloroflexi bacterium
+      1 Chromatiales
+      1 Cobetia
+      1 Colwellia
+      1 Colwelliaceae
+      1 Coxiella
+      1 Cupriavidus
+      1 Ensifer
+      1 Enterobacterales
+      1 Enterobacteriaceae
+      1 Firmicutes
+      1 Gammaproteobacteria bacterium MOLA455
+      1 gamma proteobacterium IMCC1989
+      1 Halieaceae
+      1 Halomonas sp. TQ8S
+      1 Idiomarina
+      1 Idiomarinaceae
+      1 Janthinobacterium
+      1 Legionella
+      1 marine gamma proteobacterium HTCC2143
+      1 Marinobacterium
+      1 Marinobacterium halophilum
+      1 Moraxellaceae
+      1 Nitrosomonadales
+      1 Pasteurellaceae
+      1 Pseudoalteromonas luteoviolacea
+      1 Pseudomonadales
+      1 Rhizobium
+      1 Rhodobacteraceae bacterium
+      1 Rhodobacterales
+      1 root
+      1 Roseovarius indicus
+      1 SAR92 bacterium BACL26 MAG-121220-bin70
+      1 SAR92 bacterium MED-G29
+      1 Sinobacteraceae bacterium
+      1 Steroidobacter sp. JW-3
+      1 Telmatospirillum siberiense
+      1 Thiotrichaceae
+      1 unclassified Betaproteobacteria (miscellaneous)
+      1 unclassified Limnohabitans
+      1 unclassified Mesorhizobium
+      1 unclassified Pseudomonadaceae
+      1 Xanthomonadales
+      1 Yersinia

@@ -1,0 +1,11 @@
+   1026 
+      7 Prorocentrum_minimum
+      1 Alexandrium_margalefii
+      1 Chrysoreinhardia
+      1 Mantoniella_antarctica
+      1 Micromonas
+      1 Odontella_aurita
+      1 Phaeomonas_parva
+      1 Polarella_glacialis
+      1 Triceratium_dubium
+      1 uncultured_eukaryote

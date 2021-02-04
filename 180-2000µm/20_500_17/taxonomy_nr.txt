@@ -1,0 +1,15 @@
+    968 
+      5 Eurytemora affinis
+      4 Eumetazoa
+      3 Arthropoda
+      3 Protostomia
+      2 Bilateria
+      2 Neoptera
+      2 Priapulus caudatus
+      2 Stylophora pistillata
+      1 Acanthomorphata
+      1 cellular organisms
+      1 Chordata
+      1 Diabrotica virgifera virgifera
+      1 Ecdysozoa
+      1 Mollusca

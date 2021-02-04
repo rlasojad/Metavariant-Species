@@ -1,0 +1,9 @@
+   1015 
+      5 Bilateria
+      2 Opisthokonta
+      1 Anthozoa
+      1 Cyclopoida
+      1 Eukaryota
+      1 Maxillopoda
+      1 NULL
+      1 root

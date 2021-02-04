@@ -1,0 +1,15 @@
+    979 
+     38 root
+     28 Caudovirales
+     19 Myoviridae
+      6 unclassified_Myoviridae
+      4 Synechococcus
+      3 Prochlorococcus
+      2 T4likevirus
+      1 Bacteria
+      1 Cyanophage_P-RSM6
+      1 dsDNA
+      1 Prochlorales
+      1 Proteobacteria
+      1 Stramenopiles
+      1 Viruses

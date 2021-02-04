@@ -1,0 +1,19 @@
+    934 
+     10 Eumetazoa
+      6 Asteroidea
+      6 Bilateria
+      6 Eleutherozoa
+      5 Apostichopus japonicus
+      4 Acanthaster planci
+      3 Protostomia
+      2 Capitella teleta
+      2 Deuterostomia
+      2 Stylophora pistillata
+      2 Valvatacea
+      1 Anthozoa
+      1 Araneus ventricosus
+      1 Bathymodiolus brooksi thiotrophic gill symbiont
+      1 cellular organisms
+      1 Characoidei
+      1 Clupeocephala
+      1 Opisthokonta

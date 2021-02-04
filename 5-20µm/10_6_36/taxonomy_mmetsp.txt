@@ -1,0 +1,8 @@
+    979 
+      2 Oxyrrhis_marina
+      1 Chaetoceros_cf._neogracile
+      1 Eutreptiella_gymnastica
+      1 Lotharella_oceanica
+      1 Polytomella_parva
+      1 Scrippsiella_hangoei
+      1 Tiarina_fusa

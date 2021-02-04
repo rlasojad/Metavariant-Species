@@ -1,0 +1,12 @@
+    977 
+      4 Pancrustacea
+      2 Bilateria
+      2 Neoptera
+      1 Araneus ventricosus
+      1 Arthropoda
+      1 Calanoida
+      1 Ecdysozoa
+      1 Eurytemora affinis
+      1 Formicidae
+      1 Hymenoptera
+      1 Schistosoma mansoni

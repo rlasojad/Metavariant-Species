@@ -1,0 +1,11 @@
+   1023 
+      1 Eutreptiella_gymnastica
+      1 Extubocellulus_spinifer
+      1 Fragilariopsis_kerguelensis
+      1 Mayorella
+      1 Mesodinium_pulex
+      1 Paramoeba_atlantica
+      1 Polytomella_parva
+      1 Thalassiothrix_antarctica
+      1 Togula_jolla
+      1 uncultured_eukaryote

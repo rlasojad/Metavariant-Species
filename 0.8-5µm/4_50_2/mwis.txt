@@ -1,0 +1,6 @@
+slot value
+connected_component 3
+degree 24
+weight 0.86624336343447
+score 0.0346497345373788
+mwis TRUE

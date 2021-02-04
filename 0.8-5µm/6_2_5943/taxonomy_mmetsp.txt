@@ -1,0 +1,11 @@
+    898 
+      1 Attheya_septentrionalis
+      1 Blepharisma_japonicum
+      1 Chaetoceros_neogracile
+      1 Leptocylindrus_danicus
+      1 Paraphysomonas_vestita
+      1 Rosalina
+      1 Sorites_sp.
+      1 Thalassiosira_minuscula
+      1 Tiarina_fusa
+      1 Vannella_sp._CB-2014

@@ -1,0 +1,43 @@
+   1858 
+     13 Tigriopus californicus
+     12 Pancrustacea
+     11 Bilateria
+      9 Eurytemora affinis
+      9 Neoptera
+      7 Arthropoda
+      7 Holometabola
+      6 Protostomia
+      3 Neocopepoda
+      3 Opisthokonta
+      3 Podoplea
+      2 cellular organisms
+      2 Eumetazoa
+      2 Euteleostomi
+      2 Hexapoda
+      2 Multicrustacea
+      1 Actinopteri
+      1 Apocrita
+      1 Apoidea
+      1 Calanoida
+      1 Chelicerata
+      1 Chrysomeloidea
+      1 Diptera
+      1 Drosophila
+      1 Ecdysozoa
+      1 Eukaryota
+      1 Frankliniella occidentalis
+      1 Hexanauplia
+      1 Hymenobacter
+      1 Hymenoptera
+      1 melanogaster group
+      1 Metazoa
+      1 Microchiroptera
+      1 Mollusca
+      1 Myrmicinae
+      1 Neognathae
+      1 Opisthorchis viverrini
+      1 Ovalentaria
+      1 Panarthropoda
+      1 Proteobacteria
+      1 Tigriopus
+      1 Xanthomonadales

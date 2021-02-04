@@ -1,0 +1,10 @@
+    855 
+    186 Bathycoccaceae
+     37 Bathycoccus_prasinos
+     28 Bathycoccus
+      8 Mamiellales
+      6 Ostreococcus
+      1 Eukaryota
+      1 Hydroidolina
+      1 Mamiellophyceae
+      1 Viridiplantae

@@ -1,0 +1,10 @@
+   1005 
+      5 Calanus
+      4 Calanidae
+      3 Calanoida
+      3 Eumetazoa
+      3 Neocopepoda
+      2 Maxillopoda
+      1 Eukaryota
+      1 NULL
+      1 Pancrustacea

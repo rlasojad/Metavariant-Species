@@ -1,0 +1,23 @@
+   2038 
+     11 Maxillopoda
+      5 Calanoida
+      4 Eumetazoa
+      3 Calanus
+      3 Hydrozoa
+      2 Bilateria
+      2 Echinoidea
+      2 Insecta
+      2 Mammalia
+      1 Anthoathecata
+      1 Apocrita
+      1 Demospongiae
+      1 Deuterostomia
+      1 Ecdysozoa
+      1 Enteropneusta
+      1 Eukaryota
+      1 Euteleostomi
+      1 Gastropoda
+      1 Neocopepoda
+      1 NULL
+      1 Opisthokonta
+      1 Pancrustacea

@@ -1,0 +1,12 @@
+   1101 unclassified Synechococcus
+     84 
+     11 Synechococcales
+      4 Synechococcaceae
+      4 Synechococcus sp. WH 8109
+      3 Prochlorococcus
+      2 Cyanobacteria
+      2 Synechococcus sp. KORDI-52
+      1 Betaproteobacteria
+      1 Synechococcus
+      1 Synechococcus sp. CC9605
+      1 Synechococcus sp. UW69

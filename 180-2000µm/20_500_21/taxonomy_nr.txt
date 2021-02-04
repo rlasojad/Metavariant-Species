@@ -1,0 +1,8 @@
+   1004 
+      4 Eumetazoa
+      3 Hexacorallia
+      2 Bilateria
+      1 Actiniaria
+      1 Helicoverpa armigera
+      1 Protostomia
+      1 Trichinella

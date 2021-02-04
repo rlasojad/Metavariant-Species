@@ -1,0 +1,52 @@
+   1299 
+     42 Eukaryota
+     41 Emiliania huxleyi CCMP1516
+     31 Chrysochromulina sp. CCMP291
+     16 Prymnesiophyceae
+      9 cellular organisms
+      4 Bacteria
+      4 Stramenopiles
+      3 Bilateria
+      3 Chlorophyta
+      3 Opisthokonta
+      3 Terrabacteria group
+      3 Viridiplantae
+      2 Bacillariophyta
+      2 Bacteroidetes
+      2 Fungi
+      2 Haptista
+      1 Alphaproteobacteria
+      1 Apocrita
+      1 Bacillariaceae
+      1 Basidiomycota
+      1 Bathycoccus prasinos
+      1 Betaproteobacteria
+      1 Candidatus Poseidoniales archaeon
+      1 Chara braunii
+      1 Chlamydomonadales
+      1 Cyanobacteria
+      1 Eumetazoa
+      1 Euryarchaeota
+      1 Euteleostomi
+      1 Firmicutes
+      1 Fungi incertae sedis
+      1 Gammaproteobacteria
+      1 Guillardia theta CCMP2712
+      1 Isochrysidales
+      1 Leishmaniinae
+      1 Metatheria
+      1 Micromonas commoda
+      1 Mucor
+      1 Mucorales
+      1 Obtectomera
+      1 Oomycetes
+      1 Pentapetalae
+      1 Phytophthora parasitica
+      1 Proteobacteria
+      1 Saccharomycetaceae
+      1 Saprolegniaceae
+      1 Sphingomonadaceae
+      1 Streptococcus
+      1 Tetrapoda
+      1 Thalassiosira oceanica
+      1 Volvox carteri f. nagariensis

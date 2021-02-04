@@ -1,0 +1,9 @@
+   1179 
+      2 Fragilariopsis_kerguelensis
+      1 Bigelowiella_natans
+      1 Compsopogon_caeruleus
+      1 Eutreptiella_gymnastica
+      1 Mesodinium_pulex
+      1 Palpitomonas_bilix
+      1 Polytomella_parva
+      1 uncultured_eukaryote

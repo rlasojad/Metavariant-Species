@@ -1,0 +1,16 @@
+   1042 
+     10 Bilateria
+      3 Eumetazoa
+      1 Actinopteri
+      1 Alveolata
+      1 Bacillariophyta
+      1 Cryptomonadales
+      1 Deuterostomia
+      1 Enteropneusta
+      1 Eustigmatales
+      1 Euteleostomi
+      1 Eutheria
+      1 Opisthokonta
+      1 Protostomia
+      1 root
+      1 Tremellomycetes

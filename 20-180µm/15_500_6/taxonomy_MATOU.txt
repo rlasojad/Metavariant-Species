@@ -1,0 +1,19 @@
+    846 
+     60 Calanidae
+     26 Calanoida
+     26 Calanus
+     22 Maxillopoda
+      5 Neocopepoda
+      4 Bilateria
+      3 Pancrustacea
+      2 Calanus_finmarchicus
+      2 Insecta
+      2 Mandibulata
+      2 Neoptera
+      1 Apocrita
+      1 Arthropoda
+      1 Crustacea
+      1 Endopterygota
+      1 Eukaryota
+      1 Gnathostomata
+      1 Protostomia

@@ -1,0 +1,71 @@
+    267 
+    234 Proteobacteria
+    222 Proteobacteria bacterium TMED154
+    109 Bacteria
+     36 Alphaproteobacteria
+     22 unclassified Proteobacteria
+     12 unclassified Proteobacteria (miscellaneous)
+     11 Gammaproteobacteria
+     10 Rhodobacteraceae
+     10 root
+      9 SAR324 cluster bacterium
+      7 delta/epsilon subdivisions
+      6 Deltaproteobacteria
+      5 Terrabacteria group
+      4 Betaproteobacteria
+      3 cellular organisms
+      3 Comamonadaceae
+      3 Proteobacteria bacterium
+      3 Rhizobiales
+      2 Bacillales
+      2 Candidatus Rokubacteria
+      2 environmental samples
+      2 Firmicutes
+      2 Pseudomonas
+      2 Rhodospirillaceae bacterium TMED8
+      2 Streptomyces
+      2 unclassified Deltaproteobacteria (miscellaneous)
+      2 uncultured bacterium
+      2 uncultured delta proteobacterium HF0070_30B07
+      2 uncultured delta proteobacterium HF0200_39L23
+      1 Acetomicrobium
+      1 Acidobacteria
+      1 Actinobacteria
+      1 Alteromonadales
+      1 Aneurinibacillus
+      1 Azospirillum
+      1 Bacillaceae
+      1 Bacteroidetes
+      1 Balneolaeota
+      1 Caloramator australicus
+      1 Clostridium
+      1 Comamonadaceae bacterium
+      1 Cyanobacteria
+      1 Deltaproteobacteria bacterium SG8_13
+      1 Frankia
+      1 Gammaproteobacteria bacterium
+      1 Hoeflea
+      1 Hymenobacter
+      1 Magnetospirillum
+      1 Mycobacteriaceae
+      1 Planctomycetes
+      1 prokaryotic environmental samples
+      1 Proteobacteria bacterium TMED51
+      1 PVC group
+      1 Rhodobacterales
+      1 Rhodospirillales
+      1 SAR116 cluster
+      1 SAR116 cluster alpha proteobacterium HIMB100
+      1 Sphingomonadaceae
+      1 unclassified Alphaproteobacteria
+      1 unclassified Alphaproteobacteria (miscellaneous)
+      1 unclassified Arthrobacter
+      1 unclassified Cycloclasticus
+      1 unclassified Gammaproteobacteria
+      1 unclassified Synechococcus
+      1 uncultured bacterium EIL80B09
+      1 uncultured delta proteobacterium HF0130_05G09
+      1 uncultured delta proteobacterium HF0770_45N15
+      1 uncultured marine microorganism HF4000_48F7
+      1 Vibrio
+      1 Xanthomonadaceae

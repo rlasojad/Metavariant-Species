@@ -1,0 +1,22 @@
+    930 
+     11 Eurytemora affinis
+      4 Neocopepoda
+      3 Pancrustacea
+      2 Arthropoda
+      2 Bilateria
+      2 Holometabola
+      2 Neoptera
+      2 Protostomia
+      1 Acropora digitifera
+      1 Apis
+      1 Bacteria
+      1 Euteleostomi
+      1 Hexacorallia
+      1 Multicrustacea
+      1 Neopterygii
+      1 Obtectomera
+      1 Paniceae
+      1 Platyhelminthes
+      1 Spirurina
+      1 Tigriopus californicus
+      1 Trichinella

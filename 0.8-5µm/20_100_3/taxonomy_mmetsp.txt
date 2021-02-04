@@ -1,0 +1,17 @@
+    842 
+     16 Goniomonas_pacifica
+      9 uncultured_eukaryote
+      2 Alexandrium_andersonii
+      2 Alexandrium_tamarense
+      1 Acanthoeca
+      1 Aureococcus_anophagefferens
+      1 Chlamydomonas_chlamydogama
+      1 Chlamydomonas_leiostraca
+      1 Cryptomonas_paramecium
+      1 Exanthemachrysis_gayraliae
+      1 Hemiselmis_tepida
+      1 Partenskyella_glossopodia
+      1 Prasinococcus_capsulatus
+      1 Pyramimonas_obovata
+      1 Symbiodinium_sp.
+      1 Thalassionema_nitzschioides

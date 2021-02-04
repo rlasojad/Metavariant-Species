@@ -1,0 +1,17 @@
+    840 
+      3 Eukaryota
+      2 Holometabola
+      2 Stramenopiles
+      2 Viruses
+      1 archaeon
+      1 Arthropoda
+      1 Bilateria
+      1 cellular organisms
+      1 Eumetazoa
+      1 Gammaproteobacteria
+      1 Leptotrombidium deliense
+      1 Phytophthora parasitica
+      1 Planctomycetes bacterium
+      1 Pythium
+      1 root
+      1 Sorangium cellulosum

@@ -1,0 +1,22 @@
+    876 
+      7 Bilateria
+      3 Eukaryota
+      2 Eumetazoa
+      2 Pancrustacea
+      2 Rickettsiales bacterium
+      1 Alphaproteobacteria
+      1 Andrena
+      1 Apoidea
+      1 cellular organisms
+      1 Ecdysozoa
+      1 Fungi
+      1 Glycera
+      1 Hydra vulgaris
+      1 Neocopepoda
+      1 Obtectomera
+      1 Oithona
+      1 Panarthropoda
+      1 Podoplea
+      1 Protostomia
+      1 Pterygota
+      1 Tigriopus californicus

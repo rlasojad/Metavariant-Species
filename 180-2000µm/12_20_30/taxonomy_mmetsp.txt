@@ -1,0 +1,17 @@
+    971 
+      2 Chrysoreinhardia
+      2 Stygamoeba_regulata
+      1 Bolidomonas
+      1 Chaetoceros_cf._neogracile
+      1 Cryptomonas_paramecium
+      1 Dactyliosolen_fragilissimus
+      1 Eutreptiella_gymnastica
+      1 Fragilariopsis_kerguelensis
+      1 Kryptoperidinium_foliaceum
+      1 Licmophora_paradoxa
+      1 Mantoniella
+      1 Ostreococcus_mediterraneus
+      1 Paramoeba_atlantica
+      1 Paraphysomonas_vestita
+      1 Prorocentrum_minimum
+      1 uncultured_eukaryote

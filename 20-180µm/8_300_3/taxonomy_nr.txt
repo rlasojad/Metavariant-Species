@@ -1,0 +1,64 @@
+    882 
+     41 Pancrustacea
+     28 Tigriopus californicus
+     24 Neoptera
+     22 Bilateria
+     18 Holometabola
+     17 Neocopepoda
+     15 Protostomia
+     14 Arthropoda
+      9 Eurytemora affinis
+      6 Crustacea
+      4 Ecdysozoa
+      4 Euteleostomi
+      4 Hymenoptera
+      4 Multicrustacea
+      4 Obtectomera
+      4 Opisthokonta
+      4 Podoplea
+      3 Aculeata
+      3 Apocrita
+      3 Drosophila
+      3 Eumetazoa
+      2 Amniota
+      2 Arachnida
+      2 Bacteria
+      2 Chelicerata
+      2 Eukaryota
+      2 Gnathostomata
+      2 Hexacorallia
+      2 Hexapoda
+      1 Acalyptratae
+      1 Apidae
+      1 Archelosauria
+      1 Bovinae
+      1 Calyptratae
+      1 cellular organisms
+      1 Ceratosolen solmsi marchali
+      1 Chalcidoidea
+      1 Chordata
+      1 Cryptotermes secundus
+      1 Culicidae
+      1 Deltaproteobacteria bacterium
+      1 Deuterostomia
+      1 Echeneis naucrates
+      1 Eutheria
+      1 Formicidae
+      1 Hexanauplia
+      1 Hyalella azteca
+      1 Mandibulata
+      1 Marinomonas sp. JHZ-47
+      1 Myrmicinae
+      1 Neognathae
+      1 Paracyclopina nana
+      1 Paraneoptera
+      1 Percomorphaceae
+      1 Polyphaga
+      1 root
+      1 Sauria
+      1 Schizophora
+      1 Schizosaccharomyces japonicus yFS275
+      1 Spirurina
+      1 Tetrapoda
+      1 Theria
+      1 Trichomonas vaginalis G3

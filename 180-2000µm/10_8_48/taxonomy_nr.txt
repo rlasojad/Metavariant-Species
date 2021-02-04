@@ -1,0 +1,20 @@
+    904 
+      7 Eumetazoa
+      3 cellular organisms
+      3 Exaiptasia pallida
+      3 Protostomia
+      2 Dendronephthya gigantea
+      2 Eukaryota
+      2 Hexacorallia
+      2 Hydra vulgaris
+      2 Penaeus vannamei
+      2 Stylophora pistillata
+      1 Acropora
+      1 Arthropoda
+      1 Bilateria
+      1 Crassostrea
+      1 Hexapoda
+      1 Mesangiospermae
+      1 rosids
+      1 Solemya velum gill symbiont
+      1 Tilletia

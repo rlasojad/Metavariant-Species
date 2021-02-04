@@ -1,0 +1,15 @@
+   1093 
+      5 NULL
+      3 Eukaryota
+      2 Deuterostomia
+      1 Amniota
+      1 Apansporoblastina
+      1 Archelosauria
+      1 Bilateria
+      1 Eumetazoa
+      1 Insecta
+      1 Mandibulata
+      1 Pancrustacea
+      1 Sarcopterygii
+      1 Tetrapoda
+      1 Trematoda

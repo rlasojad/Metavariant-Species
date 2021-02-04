@@ -1,0 +1,13 @@
+    972 Alteromonas
+    144 unclassified Alteromonas
+     75 
+     17 Alteromonadaceae
+      6 Alteromonas macleodii
+      5 Gammaproteobacteria
+      2 Alteromonadales
+      2 Alteromonas sp. ALT199
+      2 Alteromonas sp. TK-46(2)
+      1 Alteromonas macleodii str. 'Balearic Sea AD45'
+      1 Alteromonas sp. KUL42
+      1 Trichoplax adhaerens
+      1 Vibrionaceae

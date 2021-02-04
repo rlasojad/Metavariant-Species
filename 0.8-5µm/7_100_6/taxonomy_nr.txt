@@ -1,0 +1,51 @@
+    581 
+    261 Flavobacteriaceae
+     23 Aequorivita
+     14 Bacteroidetes
+     11 unclassified Gammaproteobacteria
+     10 Flavobacterium
+      9 Flavobacteriales
+      9 Rhodobacteraceae
+      6 Gammaproteobacteria
+      4 Proteobacteria
+      2 Alphaproteobacteria
+      2 Aquimarina
+      2 Bacteria
+      2 Candidatus Ulvibacter alkanivorans
+      2 Chrysochromulina sp. CCMP291
+      2 Dokdonia
+      2 Emiliania huxleyi CCMP1516
+      2 Leeuwenhoekiella
+      2 Ulvibacter antarcticus
+      2 unclassified Flavobacterium
+      2 unclassified Gammaproteobacteria (miscellaneous)
+      1 Aureitalea sp. RR4-38
+      1 Brucellaceae
+      1 Cyclobacteriaceae
+      1 environmental samples
+      1 Eukaryota
+      1 Flavobacteriia
+      1 Gammaproteobacteria bacterium
+      1 Halomonadaceae
+      1 Hexacorallia
+      1 Kordia
+      1 Maribacter
+      1 Marinirhabdus gelatinilytica
+      1 Marinomonas
+      1 Myroides
+      1 Nonlabens
+      1 Opisthokonta
+      1 Pontibacter
+      1 Psychroflexus
+      1 Rhizobiales bacterium TMED162
+      1 Rhizophagus irregularis
+      1 Rhodobacterales
+      1 Roseovarius
+      1 Roseovarius aestuarii
+      1 Ruegeria sp. Alg231-54
+      1 Stramenopiles
+      1 Ulvibacter litoralis
+      1 unclassified Dokdonia
+      1 unclassified Flavobacteriaceae
+      1 unclassified Rhodobacteraceae
+      1 unclassified Synechococcus

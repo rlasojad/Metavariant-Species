@@ -1,0 +1,24 @@
+   1082 
+     36 Goniomonas_pacifica
+      3 uncultured_eukaryote
+      1 Ammonia_sp.
+      1 Chaetoceros_sp.
+      1 Compsopogon_caeruleus
+      1 Dolichomastix_tenuilepis
+      1 Exanthemachrysis_gayraliae
+      1 Hemiselmis_andersenii
+      1 Heterocapsa_arctica
+      1 Leptocylindrus_danicus
+      1 Lingulodinium_polyedrum
+      1 Micromonas_pusilla
+      1 Paraphysomonas_imperforata
+      1 Pelagococcus_subviridis
+      1 Picochlorum
+      1 Picocystis_salinarum
+      1 Porphyridium_aerugineum
+      1 Pseudo-nitzschia_delicatissima
+      1 Pyramimonas_obovata
+      1 Rhizochromulina_marina
+      1 Symbiodinium_kawagutii
+      1 Thalassiosira_antarctica
+      1 Thalassiosira_rotula

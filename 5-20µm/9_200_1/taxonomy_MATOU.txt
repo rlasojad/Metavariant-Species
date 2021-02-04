@@ -1,0 +1,19 @@
+   1003 
+     20 Planctomycetales
+     14 root
+     11 Bacteria
+      8 NULL
+      7 Planctomycetaceae
+      6 Planctomycetia
+      4 marine
+      1 Actinomycetales
+      1 Bacteriovorax
+      1 Burkholderiales
+      1 cellular_organisms
+      1 Dinophyceae
+      1 Eukaryota
+      1 Planctomycetes
+      1 Proteobacteria
+      1 Rhodobacteraceae
+      1 unclassified
+      1 uncultured

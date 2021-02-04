@@ -1,0 +1,36 @@
+   2382 
+     20 Acanthaster planci
+     20 Bilateria
+     13 Eumetazoa
+     11 Eurytemora affinis
+     10 Apostichopus japonicus
+      7 Deuterostomia
+      6 Holometabola
+      5 Hexacorallia
+      4 Capitella teleta
+      3 Protostomia
+      2 Arthropoda
+      2 cellular organisms
+      2 Eleutherozoa
+      2 Pancrustacea
+      2 Strongylocentrotus purpuratus
+      2 Valvatacea
+      1 Araneus ventricosus
+      1 Calanoida
+      1 Clausocalanus
+      1 Clupeocephala
+      1 Dendronephthya gigantea
+      1 Ecdysozoa
+      1 Exaiptasia pallida
+      1 Heroini
+      1 Neocopepoda
+      1 Neoheteroptera
+      1 Opisthokonta
+      1 Percomorphaceae
+      1 Planctomycetaceae bacterium
+      1 Pocilloporidae
+      1 Pseudomyrmex gracilis
+      1 root
+      1 rosids
+      1 Saccoglossus kowalevskii
+      1 Stylophora pistillata

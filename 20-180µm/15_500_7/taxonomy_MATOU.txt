@@ -1,0 +1,22 @@
+   2211 
+     11 Maxillopoda
+     10 Bilateria
+      8 Insecta
+      7 Oithonidae
+      3 Cyclopoida
+      3 Eukaryota
+      3 NULL
+      3 Pancrustacea
+      2 Actinopteri
+      2 Ecdysozoa
+      2 Eumetazoa
+      1 Arthropoda
+      1 Coleoptera
+      1 Hydrozoa
+      1 Neocopepoda
+      1 Oithona
+      1 Opisthokonta
+      1 Protostomia
+      1 root
+      1 Stramenopiles
+      1 Theria

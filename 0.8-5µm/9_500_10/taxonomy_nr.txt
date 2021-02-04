@@ -1,0 +1,29 @@
+    476 Bathycoccus prasinos
+    246 
+     90 Mamiellales
+     73 Viridiplantae
+     62 Chlorophyta
+     60 Bathycoccaceae
+     41 Eukaryota
+     18 cellular organisms
+      7 Mesangiospermae
+      4 Embryophyta
+      4 Pentapetalae
+      3 root
+      3 Tracheophyta
+      2 Saccharomycetales
+      2 Streptophytina
+      1 Apoidea
+      1 Bacteroidetes
+      1 Fungi
+      1 Gammaproteobacteria
+      1 Micromonas
+      1 Mucilaginibacter
+      1 Opisthokonta
+      1 Ostreococcus lucimarinus CCE9901
+      1 Pancrustacea
+      1 Peronosporaceae
+      1 Petrosaviidae
+      1 Poaceae
+      1 rosids
+      1 Streptophyta

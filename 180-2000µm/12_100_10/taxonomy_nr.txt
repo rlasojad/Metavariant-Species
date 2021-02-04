@@ -1,0 +1,58 @@
+   1432 
+     45 Eurytemora affinis
+     39 Pancrustacea
+     19 Bilateria
+     19 Neocopepoda
+     15 Neoptera
+     12 Arthropoda
+     11 Holometabola
+     11 Protostomia
+     10 Multicrustacea
+      5 Opisthokonta
+      4 Hymenoptera
+      3 Arachnida
+      3 cellular organisms
+      3 Crustacea
+      3 Ecdysozoa
+      2 Blattodea
+      2 Diptera
+      2 Exaiptasia pallida
+      2 Lophotrochozoa
+      2 Mollusca
+      2 Polyphaga
+      1 Aculeata
+      1 Amniota
+      1 Amphimedon queenslandica
+      1 Anura
+      1 Aphidinae
+      1 Apidae
+      1 Apoidea
+      1 Araneus ventricosus
+      1 Astrocoeniina
+      1 Bathymodiolus brooksi thiotrophic gill symbiont
+      1 Calanoida
+      1 Culicidae
+      1 Cyprinodontoidei
+      1 Daphniidae
+      1 Ditrysia
+      1 Entelegynae
+      1 Eubosmina
+      1 Eukaryota
+      1 Eumetazoa
+      1 Euteleostomi
+      1 Eutheria
+      1 Formicidae
+      1 Hemiptera
+      1 Hexacorallia
+      1 Hexapoda
+      1 Melanoconion
+      1 Nematoda
+      1 Nocardiaceae
+      1 Papaver somniferum
+      1 Papilionoidea
+      1 Paramecium tetraurelia
+      1 Percomorphaceae
+      1 Podoplea
+      1 Salmoninae
+      1 Sarcopterygii
+      1 Tigriopus californicus

@@ -1,0 +1,22 @@
+    809 
+     15 Eurytemora affinis
+     10 Pancrustacea
+      8 Neocopepoda
+      5 Holometabola
+      4 Neoptera
+      2 Arachnida
+      2 Arthropoda
+      2 Crustacea
+      2 Ecdysozoa
+      2 Hexapoda
+      1 Aphidinae
+      1 Bilateria
+      1 Chelicerata
+      1 Clupeocephala
+      1 Ditrysia
+      1 Hymenoptera
+      1 Macrosiphini
+      1 Obtectomera
+      1 Opisthokonta
+      1 Protostomia
+      1 Schizophora

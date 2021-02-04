@@ -1,0 +1,53 @@
+   2098 
+     61 Emiliania huxleyi CCMP1516
+     56 Eukaryota
+     52 Chrysochromulina sp. CCMP291
+     29 Prymnesiophyceae
+     11 cellular organisms
+      7 Haptista
+      5 Bacillariophyta
+      5 Bilateria
+      4 Aureococcus anophagefferens
+      3 Oomycetes
+      3 Opisthokonta
+      3 Stramenopiles
+      3 Symbiodinium microadriaticum
+      3 Thalassiosira oceanica
+      2 Bacteria
+      2 Embryophyta
+      2 Fungi incertae sedis
+      2 Pentapetalae
+      2 Proteobacteria
+      2 rosids
+      2 Terrabacteria group
+      2 Viridiplantae
+      1 Actinobacteria
+      1 Aphanomyces
+      1 Archosauria
+      1 asterids
+      1 Bacillus sp. SA5d-4
+      1 Bacteroidetes
+      1 Bathycoccus prasinos
+      1 Branchiostoma
+      1 Chlorophyta
+      1 Cyanobacteria
+      1 Dikarya
+      1 fabids
+      1 Flavobacteriaceae
+      1 Guillardia theta CCMP2712
+      1 Hondaea fermentalgiana
+      1 Leisingera
+      1 Mesangiospermae
+      1 Metazoa
+      1 NPAAA clade
+      1 Ostreococcus tauri
+      1 Paenibacillus
+      1 Penicillium
+      1 Peronosporaceae
+      1 Phytophthora
+      1 Pontibacter
+      1 Pythium
+      1 saccharomyceta
+      1 Sediminitomix flava
+      1 Tetrahymena thermophila SB210
+      1 Thraustotheca clavata

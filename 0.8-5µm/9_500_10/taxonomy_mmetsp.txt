@@ -1,0 +1,9 @@
+    848 Bathycoccus_prasinos
+    249 
+      2 uncultured_eukaryote
+      1 Ammonia_sp.
+      1 Aplanochytrium_stocchinoi
+      1 Chrysoreinhardia
+      1 Compsopogon_caeruleus
+      1 Lotharella_globosa
+      1 Rosalina

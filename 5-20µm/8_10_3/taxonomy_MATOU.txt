@@ -1,0 +1,20 @@
+   1084 
+      5 Haptophyceae
+      2 cellular_organisms
+      2 Coccolithales
+      2 Dinophyceae
+      2 Eukaryota
+      1 Bacillariaceae
+      1 Calcidiscaceae
+      1 Chlorophyta
+      1 Euteleostomi
+      1 Isochrysidales
+      1 Noelaerhabdaceae
+      1 Oscillatoriophycideae
+      1 Phaeocystales
+      1 Pleurochrysidaceae
+      1 Prostomatea
+      1 Prymnesiaceae
+      1 Prymnesiales
+      1 uncultured
+      1 Viridiplantae

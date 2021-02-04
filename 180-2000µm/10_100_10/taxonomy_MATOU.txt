@@ -1,0 +1,11 @@
+   1172 
+      4 Bilateria
+      2 Echinoidea
+      2 Eumetazoa
+      1 Bivalvia
+      1 Ecdysozoa
+      1 Enteropneusta
+      1 Insecta
+      1 Malacostraca
+      1 Mammalia
+      1 NULL

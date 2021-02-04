@@ -1,0 +1,19 @@
+   1250 
+      4 Mammalia
+      4 NULL
+      3 Bilateria
+      2 Boreoeutheria
+      2 Deuterostomia
+      2 Echinoidea
+      2 Maxillopoda
+      2 Pancrustacea
+      1 Arachnida
+      1 Eukaryota
+      1 Eumetazoa
+      1 Eutheria
+      1 Hydrozoa
+      1 Insecta
+      1 Neoptera
+      1 Polychaeta
+      1 Protostomia
+      1 root

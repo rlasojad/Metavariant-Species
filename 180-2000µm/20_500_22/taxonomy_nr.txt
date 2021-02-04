@@ -1,0 +1,11 @@
+   1109 
+      4 Bilateria
+      1 Arthropoda
+      1 Calanoida
+      1 Eukaryota
+      1 Eumetazoa
+      1 Lingula anatina
+      1 Odontoceti
+      1 Penaeus vannamei
+      1 Protostomia
+      1 Trichuris suis

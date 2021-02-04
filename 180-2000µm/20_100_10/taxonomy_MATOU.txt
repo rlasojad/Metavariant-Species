@@ -1,0 +1,17 @@
+   1300 
+      5 Hydrozoa
+      5 Leptothecata
+      4 Eumetazoa
+      2 Bilateria
+      2 Scyphozoa
+      1 Actiniaria
+      1 Actinopteri
+      1 Calanidae
+      1 Cnidaria
+      1 Enteropneusta
+      1 Hydroidolina
+      1 Lycopodiidae
+      1 Maxillopoda
+      1 Metazoa
+      1 NULL
+      1 Semaeostomeae

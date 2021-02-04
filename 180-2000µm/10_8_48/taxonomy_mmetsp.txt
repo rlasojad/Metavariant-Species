@@ -1,0 +1,9 @@
+    932 
+      2 Fragilariopsis_kerguelensis
+      1 Bigelowiella_longifila
+      1 Lotharella_globosa
+      1 Lotharella_oceanica
+      1 Myrionecta_rubra
+      1 Schizochytrium_aggregatum
+      1 Tryblionella_compressa
+      1 uncultured_eukaryote

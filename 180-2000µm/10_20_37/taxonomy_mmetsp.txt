@@ -1,0 +1,8 @@
+    901 
+      1 Craspedostauros_australis
+      1 Gloeochaete_wittrockiana
+      1 Lotharella_oceanica
+      1 Palpitomonas_bilix
+      1 Tetraselmis_sp._GSL018
+      1 Tryblionella_compressa
+      1 uncultured_eukaryote

@@ -1,0 +1,10 @@
+    923 
+      1 Cryptomonas_paramecium
+      1 Fragilariopsis_kerguelensis
+      1 Imantonia
+      1 Pessonella
+      1 Sorites_sp.
+      1 Thalassiosira_minuscula
+      1 Thalassiothrix_antarctica
+      1 Tiarina_fusa
+      1 uncultured_eukaryote

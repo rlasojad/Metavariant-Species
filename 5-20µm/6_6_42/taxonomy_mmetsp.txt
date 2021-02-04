@@ -1,0 +1,10 @@
+   1035 
+      1 Craspedostauros_australis
+      1 Eutreptiella_gymnastica
+      1 Florenciella_parvula
+      1 Gephyrocapsa_oceanica
+      1 Mesodinium_pulex
+      1 Pteridomonas_danica
+      1 Pyramimonas_sp.
+      1 Schmidingerella_taraikaensis
+      1 uncultured_eukaryote

@@ -1,0 +1,13 @@
+   1197 
+      7 Alexandrium_tamarense
+      2 Sorites_sp.
+      1 Aureoumbra_lagunensis
+      1 Chaetoceros_neogracile
+      1 Craspedostauros_australis
+      1 Imantonia
+      1 Mallomonas
+      1 Myrionecta_rubra
+      1 Paramoeba_atlantica
+      1 Rosalina
+      1 Stephanopyxis_turris
+      1 Striatella_unipunctata

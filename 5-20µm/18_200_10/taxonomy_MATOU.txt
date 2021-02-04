@@ -1,0 +1,17 @@
+   1287 
+      8 Calanoida
+      5 Bilateria
+      5 Maxillopoda
+      3 NULL
+      2 Ascidiacea
+      2 Calanidae
+      2 Chordata
+      2 Eumetazoa
+      2 Protostomia
+      1 Anthozoa
+      1 Chlorophyceae
+      1 Coccidia
+      1 Echinoidea
+      1 Eukaryota
+      1 Hydrozoa
+      1 Opisthokonta

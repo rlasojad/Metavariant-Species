@@ -1,0 +1,11 @@
+   1085 
+     91 Candidatus_Pelagibacter
+     44 Pelagibacterales
+     23 Pelagibacteraceae
+     19 Candidatus
+      7 Bacteria
+      7 root
+      6 unclassified_Alphaproteobacteria
+      5 Proteobacteria
+      2 Alphaproteobacteria
+      1 Cercozoa

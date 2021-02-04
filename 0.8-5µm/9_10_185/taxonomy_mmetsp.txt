@@ -1,0 +1,17 @@
+    631 
+    209 Symbiodinium_sp.
+      5 Vaucheria_litorea
+      2 Fragilariopsis_kerguelensis
+      2 Odontella_aurita
+      1 Alexandrium_monilatum
+      1 Florenciella_parvula
+      1 Guillardia_theta
+      1 Heterosigma_akashiwo
+      1 Karenia_brevis
+      1 Micromonas
+      1 Odontella_sinensis
+      1 Paraphysomonas_imperforata
+      1 Pleurochrysis_carterae
+      1 Scrippsiella_hangoei
+      1 Scyphosphaera_apsteinii
+      1 Triceratium_dubium

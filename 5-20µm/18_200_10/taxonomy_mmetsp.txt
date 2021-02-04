@@ -1,0 +1,16 @@
+   1173 
+      4 Pseudo-nitzschia_pungens
+      2 Chaetoceros_debilis
+      2 Rhodomonas_lens
+      2 Symbiodinium_sp.
+      1 Alexandrium_monilatum
+      1 Bigelowiella_natans
+      1 Cafeteria
+      1 Karenia_brevis
+      1 Pelagodinium_beii
+      1 Prorocentrum_minimum
+      1 Rosalina
+      1 Skeletonema_grethae
+      1 Thalassionema_frauenfeldii
+      1 Thalassiosira_minuscula
+      1 uncultured_eukaryote

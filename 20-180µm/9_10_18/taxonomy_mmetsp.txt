@@ -1,0 +1,17 @@
+   1074 
+      2 Nephroselmis_pyriformis
+      2 uncultured_eukaryote
+      1 Acanthoeca
+      1 Chaetoceros_cf._neogracile
+      1 Dactyliosolen_fragilissimus
+      1 Fibrocapsa_japonica
+      1 Fragilariopsis_kerguelensis
+      1 Madagascaria_erythrocladioides
+      1 Neobodo_designis
+      1 Oxyrrhis_marina
+      1 Prymnesium_parvum
+      1 Pseudokeronopsis
+      1 Schizochytrium_aggregatum
+      1 Sorites_sp.
+      1 Stauroneis_constricta
+      1 Thalassiosira_punctigera

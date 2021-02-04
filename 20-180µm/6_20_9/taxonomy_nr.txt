@@ -1,0 +1,53 @@
+   1074 
+     49 Eurytemora affinis
+     23 Pancrustacea
+     13 Bilateria
+     11 Neocopepoda
+     11 Neoptera
+      9 Protostomia
+      8 Arthropoda
+      7 Holometabola
+      6 Eumetazoa
+      3 Apocrita
+      3 Euteleostomi
+      3 Tigriopus californicus
+      2 Apoidea
+      2 Calanoida
+      2 Chelicerata
+      2 Clupeocephala
+      2 Crustacea
+      2 Hexanauplia
+      2 Hexapoda
+      2 Opisthokonta
+      2 Podoplea
+      2 Schizophora
+      1 Acalyptratae
+      1 Acariformes
+      1 Amniota
+      1 Aphidinae
+      1 Calanus finmarchicus
+      1 cellular organisms
+      1 Chalcidoidea
+      1 Culicidae
+      1 Culicomorpha
+      1 Daphnia
+      1 Diploscapter pachys
+      1 Ditrysia
+      1 Ecdysozoa
+      1 Elephantulus edwardii
+      1 Eukaryota
+      1 Euteleosteomorpha
+      1 Formicidae
+      1 Hexacorallia
+      1 Hymenoptera
+      1 Leptinotarsa decemlineata
+      1 Mammalia
+      1 Multicrustacea
+      1 Percomorphaceae
+      1 Rattus norvegicus
+      1 Salpingoeca rosetta
+      1 Scleractinia
+      1 Sternorrhyncha
+      1 Tephritidae
+      1 Termitoidae
+      1 Tigriopus

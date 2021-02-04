@@ -1,0 +1,13 @@
+   1002 
+      4 uncultured_eukaryote
+      1 Alexandrium_margalefii
+      1 Chrysoculter_rhomboideus
+      1 Eutreptiella_gymnastica
+      1 Gonyaulax_spinifera
+      1 Nitzschia
+      1 Paramoeba_atlantica
+      1 Polarella_glacialis
+      1 Prorocentrum_minimum
+      1 Stauroneis_constricta
+      1 Symbiodinium_sp.
+      1 Thalassiosira

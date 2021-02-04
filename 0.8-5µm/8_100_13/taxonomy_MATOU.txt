@@ -1,0 +1,8 @@
+   1159 
+    123 Synechococcus
+     15 Chroococcales
+     11 Cyanobacteria
+      3 Oscillatoriophycideae
+      1 Bacteria
+      1 Chlorophyta
+      1 root

@@ -1,0 +1,26 @@
+   2134 unclassified Synechococcus
+    364 
+    147 Synechococcus sp. RCC307
+    125 Synechococcaceae
+    114 Synechococcus
+     49 Synechococcales
+     23 Bacteria
+     14 Cyanobacteria
+      9 Synechococcus sp. MED-G67
+      7 Prochlorococcus
+      7 Synechococcus sp. KORDI-49
+      7 Terrabacteria group
+      4 Synechococcus sp. TMED185
+      3 root
+      3 Synechococcus sp. WH 8103
+      2 Synechococcus sp. TMED169
+      1 Alteromonadaceae bacterium TMED101
+      1 Cyanobacteria bacterium TMED177
+      1 Cyanobacteria bacterium TMED188
+      1 Gammaproteobacteria
+      1 Proteobacteria
+      1 Proteobacteria bacterium
+      1 Synechococcus sp. TMED155
+      1 Synechococcus sp. UW106
+      1 Synechococcus sp. WH 8102
+      1 Synechococcus sp. YX04-3

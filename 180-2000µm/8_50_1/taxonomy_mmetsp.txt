@@ -1,0 +1,6 @@
+   1360 
+      2 uncultured_eukaryote
+      1 Ammonia_sp.
+      1 Dinophysis_acuminata
+      1 Polytomella_parva
+      1 Tetraselmis_striata
